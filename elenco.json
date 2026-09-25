@@ -1,0 +1,143 @@
+{
+  "formato": 1,
+  "aggiornato": "2026-09-25",
+  "autore": "BeppEmre",
+  "app": {
+    "versione": "1.0.0",
+    "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/app/BeppEmreMods.exe"
+  },
+  "bepinex": {
+    "versione": "6.0.0-be.754",
+    "pacchetti": [
+      {
+        "file": "BepInEx-6.0.0-be.754-parte1.zip",
+        "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/BepInEx-6.0.0-be.754-parte1.zip",
+        "dimensione": 2509773,
+        "sha256": "27e96bb951f9f26ab41957635e4e90a4b4bedc37c9944cd18b9c2597feed2069"
+      },
+      {
+        "file": "BepInEx-6.0.0-be.754-parte2.zip",
+        "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/BepInEx-6.0.0-be.754-parte2.zip",
+        "dimensione": 15210276,
+        "sha256": "6e84ee797ef8fb65d721bcf2833b225887f055a3968916f68c75049fae69784a"
+      },
+      {
+        "file": "BepInEx-6.0.0-be.754-parte3.zip",
+        "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/BepInEx-6.0.0-be.754-parte3.zip",
+        "dimensione": 16453060,
+        "sha256": "54126425c1b4a09602aa7c595026cea2f8b347baa160e4eb6aac50296a0a6c46"
+      }
+    ]
+  },
+  "cartella_plugin": "BepInEx\\plugins\\BeppEmre Mods",
+  "plugin": [
+    {
+      "id": "fmrings",
+      "nome": "Anelli di condizione",
+      "cartella": "FM - Plugin ANELLI DI CONDIZIONE",
+      "versione": "0.5.0",
+      "descrizione": "Anelli colorati al posto di Condizione, Forma e Fatica nella rosa, in tattica e in partita, con il valore esatto al centro.",
+      "avviso": null,
+      "file": "FMRings-0.5.0.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMRings-0.5.0.zip",
+      "dimensione": 21672,
+      "sha256": "226c0850da8622aa5d94a1492be857da183e63dbd32218cf89128e44ae6b077f"
+    },
+    {
+      "id": "fmflags",
+      "nome": "Bandiera nazionalità",
+      "cartella": "FM - Plugin BANDIERA NAZIONALITA'",
+      "versione": "0.2",
+      "descrizione": "In partita, nella barra della rosa in basso, la bandiera della nazionalità accanto al volto di ogni giocatore.",
+      "avviso": null,
+      "file": "FMFlags-0.2.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMFlags-0.2.zip",
+      "dimensione": 14175,
+      "sha256": "b6b47b9aef336e061b336caf7265122c0f1ca3599829837748e7e956afcdd7c5"
+    },
+    {
+      "id": "fmforma",
+      "nome": "Forma (giocatore e classifica)",
+      "cartella": "FM - Plugin FORMA (Giocatore e Classifica)",
+      "versione": "0.1.0",
+      "descrizione": "Il voto vero delle ultime 5 partite in caselle colorate, nella rosa e nel profilo del giocatore.",
+      "avviso": null,
+      "file": "FMForma-0.1.0.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMForma-0.1.0.zip",
+      "dimensione": 23749,
+      "sha256": "d785e0f4ec3f9f0824e8f34268d76ae04b9140913f196255c7d3681a0a7fb779"
+    },
+    {
+      "id": "fmheatmap",
+      "nome": "Heatmap",
+      "cartella": "FM - Plugin HEATMAP",
+      "versione": "0.1",
+      "descrizione": "Mappa di calore reale della squadra, costruita dai movimenti in partita, nel riquadro Mappa passaggi.",
+      "avviso": null,
+      "file": "FMHeatmap-0.1.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMHeatmap-0.1.zip",
+      "dimensione": 17617,
+      "sha256": "8cb2f686fa6f27bcf0d586999c450a84ae37e5bfa8e0f5183ee547e37c9e0b90"
+    },
+    {
+      "id": "fmstadiums",
+      "nome": "Immagine stadi",
+      "cartella": "FM - Plugin IMMAGINE STADI",
+      "versione": "0.5",
+      "descrizione": "La foto dello stadio nel sito della società, nel calendario e nel riquadro del giorno della partita.",
+      "avviso": "Serve un tuo pacchetto grafico degli stadi in Documenti\\Sports Interactive\\Football Manager 26\\graphics (per esempio nella cartella Stadi). Senza, vedrai le foto di riserva.",
+      "file": "FMStadiums-0.5.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStadiums-0.5.zip",
+      "dimensione": 2594150,
+      "sha256": "9140d904cc3f0ad744606011ad452d8a672c408ed186ccf10c2144393f6d34b3"
+    },
+    {
+      "id": "fmboots",
+      "nome": "Logo piede destro e sinistro",
+      "cartella": "FM - Plugin LOGO PIEDE DESTRO E SINISTRO",
+      "versione": "0.7.3",
+      "descrizione": "In tattica, due scarpette colorate ai lati delle stelle mostrano la qualità del piede sinistro e destro.",
+      "avviso": null,
+      "file": "FMBoots-0.7.3.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMBoots-0.7.3.zip",
+      "dimensione": 37158,
+      "sha256": "7027ad34545be883caf2eb6665c1c444f32aaed3107409ea55be72d1823e2829"
+    },
+    {
+      "id": "fmstoria",
+      "nome": "Storia campionato",
+      "cartella": "FM - Plugin STORIA CAMPIONATO",
+      "versione": "0.2.1",
+      "descrizione": "Nel sito della società la storia in campionato diventa un grafico a barre colorate, con scudetti e sigle delle divisioni.",
+      "avviso": null,
+      "file": "FMStoria-0.2.1.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStoria-0.2.1.zip",
+      "dimensione": 18192,
+      "sha256": "f97bb1c55ab6187937686752a3770d310cbe964ae2a57bdfd8605a9f2d956c22"
+    },
+    {
+      "id": "fmvar",
+      "nome": "VAR animato",
+      "cartella": "FM - Plugin VAR ANIMATO",
+      "versione": "0.2.0",
+      "descrizione": "Nel riquadro del VAR in partita compare l'arbitro animato: richiamo, rete concessa o revocata.",
+      "avviso": null,
+      "file": "FMVar-0.2.0.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVar-0.2.0.zip",
+      "dimensione": 24095301,
+      "sha256": "81018d19fd91cff4cdf0b58c74146106c9e6702c81d2a22d03c7b5b51eef494f"
+    },
+    {
+      "id": "fmvolti",
+      "nome": "Volti (popup e allenatori)",
+      "cartella": "FM - Plugin VOLTI (Popup e Allenatori)",
+      "versione": "0.1.8",
+      "descrizione": "Il volto del giocatore nei popup di gol, assist, cartellini e cambi, e gli allenatori nel pre-partita.",
+      "avviso": "Per vedere i volti serve un facepack in Documenti\\Sports Interactive\\Football Manager 26\\graphics. Senza, compaiono le iniziali. ManagerPortrait è facoltativo.",
+      "file": "FMVolti-0.1.8.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVolti-0.1.8.zip",
+      "dimensione": 37800,
+      "sha256": "1a940c043d7ad1eeb3fcc47f35b36c44eebeeb3debc7fc68d335b227faae0dca"
+    }
+  ]
+}
