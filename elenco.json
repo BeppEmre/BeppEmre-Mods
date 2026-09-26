@@ -141,5 +141,18 @@
       "dimensione": 43775,
       "sha256": "a20309f55d0594f6e70c06831a02b26c0534e2fb537010a60d889d673dbeca7a"
     }
+  ],
+  "extra": [
+    {
+      "id": "lucullus",
+      "nome": "Cartelloni LUCULLUS GAMES",
+      "versione": "2026.09.26",
+      "bersaglio": "fm_Data/StreamingAssets/aa/StandaloneWindows64/stadium-ads_assets_all.bundle",
+      "file": "lucullus-2026.09.26.bundle",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/extra/lucullus-2026.09.26.bundle",
+      "dimensione": 81787958,
+      "sha256": "28fc33f18e4f9c6f38aad609e1136eb387d82355dcb6be564cd78e22e101b110",
+      "sha256Originale": "231f21c263516d74ad036ac666ace2db9faf0e4b105dc58e1e686189d5ce5408"
+    }
   ]
 }
