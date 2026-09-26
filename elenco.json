@@ -133,13 +133,13 @@
       "id": "fmvolti",
       "nome": "Volti (popup e allenatori)",
       "cartella": "FM - Plugin VOLTI (Popup e Allenatori)",
-      "versione": "0.1.8",
+      "versione": "0.1.9",
       "descrizione": "Il volto del giocatore nei popup di gol, assist, cartellini e cambi, e gli allenatori nel pre-partita.",
       "avviso": "Per vedere i volti serve un facepack in Documenti\\Sports Interactive\\Football Manager 26\\graphics. Senza, compaiono le iniziali. ManagerPortrait è facoltativo.",
-      "file": "FMVolti-0.1.8.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVolti-0.1.8.zip",
-      "dimensione": 37800,
-      "sha256": "1a940c043d7ad1eeb3fcc47f35b36c44eebeeb3debc7fc68d335b227faae0dca"
+      "file": "FMVolti-0.1.9.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVolti-0.1.9.zip",
+      "dimensione": 39291,
+      "sha256": "8e285971ea35f39f52d2dc6abf8b2cec278bb31e8338f80678a3480a871a476d"
     }
   ]
 }
