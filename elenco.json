@@ -1,10 +1,12 @@
 {
   "formato": 1,
-  "aggiornato": "2026-09-25",
+  "aggiornato": "2026-09-26",
   "autore": "BeppEmre",
   "app": {
     "versione": "1.0.0",
-    "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/app/BeppEmreMods.exe"
+    "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/app/FMPluginInstaller.exe",
+    "dimensione": 2732032,
+    "sha256": "f64c73dd37c6cc6e65e7611abb5fe8ec38767fe347e894bb485b6295559faac9"
   },
   "bepinex": {
     "versione": "6.0.0-be.754",
