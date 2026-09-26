@@ -61,13 +61,13 @@
       "id": "fmforma",
       "nome": "Forma (giocatore e classifica)",
       "cartella": "FM - Plugin FORMA (Giocatore e Classifica)",
-      "versione": "0.3.5",
+      "versione": "0.3.7",
       "descrizione": "Il voto vero delle ultime 5 partite in caselle colorate, nella rosa e nel profilo del giocatore.",
       "avviso": null,
-      "file": "FMForma-0.3.5.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMForma-0.3.5.zip",
-      "dimensione": 25726,
-      "sha256": "a23dc797b55429a008018ddf08d50d18aa42247d93f984b5176fee8d6b3d603d"
+      "file": "FMForma-0.3.7.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMForma-0.3.7.zip",
+      "dimensione": 26521,
+      "sha256": "ac40f76e651d11287ad7b97d6be604fceb159848d5272fb7ab8075b9656b3691"
     },
     {
       "id": "fmheatmap",
