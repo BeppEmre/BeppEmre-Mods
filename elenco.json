@@ -140,6 +140,20 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVolti-0.2.0.zip",
       "dimensione": 43775,
       "sha256": "a20309f55d0594f6e70c06831a02b26c0534e2fb537010a60d889d673dbeca7a"
+    },
+    {
+      "id": "fmfinanze",
+      "nome": "Finanze dei clubs",
+      "cartella": "FM - Plugin FINANZE CLUB",
+      "descrizione": "Nella pagina del campionato, sotto i riquadri, il saldo in banca e il budget mercato di ogni club, ordinati per classifica.",
+      "avviso": null,
+      "icona": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2.5\"/><path d=\"M3 9h18M3 14h18M8 4v16\"/>",
+      "versione": "0.3.1",
+      "file": "FMFinanze-0.3.1.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMFinanze-0.3.1.zip",
+      "dimensione": 37290,
+      "sha256": "f91f4221f48d9533395b1dd63ed70e72fbe26803bd5c682756e75f771a9270a5",
+      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmfinanze.jpg?v=14697cf2ba"
     }
   ],
   "extra": [
