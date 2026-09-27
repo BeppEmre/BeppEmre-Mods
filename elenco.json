@@ -1,6 +1,6 @@
 {
   "formato": 1,
-  "aggiornato": "2026-09-26",
+  "aggiornato": "2026-09-27",
   "autore": "BeppEmre",
   "app": {
     "versione": "1.1.0",
@@ -152,7 +152,8 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/extra/lucullus-2026.09.26.bundle",
       "dimensione": 81787958,
       "sha256": "28fc33f18e4f9c6f38aad609e1136eb387d82355dcb6be564cd78e22e101b110",
-      "sha256Originale": "231f21c263516d74ad036ac666ace2db9faf0e4b105dc58e1e686189d5ce5408"
+      "sha256Originale": "231f21c263516d74ad036ac666ace2db9faf0e4b105dc58e1e686189d5ce5408",
+      "catalogo": "221f1eb6f5070cd0df42229c2333c957"
     }
   ]
 }
