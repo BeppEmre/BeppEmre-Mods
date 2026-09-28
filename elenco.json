@@ -156,7 +156,7 @@
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmfinanze.jpg?v=14697cf2ba"
     },
     {
-      "id": "3",
+      "id": "fmatmosfera",
       "nome": "Cori da stadio",
       "cartella": "FM - Plugin CORI DA STADIO",
       "descrizione": "Inni pre-match per squadre Italiane, Inglesi, Francesi, Spagnole e Tedesche.Cori durante il match; esultanza in caso",
@@ -170,7 +170,7 @@
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/3.jpg?v=bb2c9ec780"
     },
     {
-      "id": "7",
+      "id": "fmgoalpopup",
       "nome": "Goal popup",
       "cartella": "FM - Plugin GOAL POPUP",
       "descrizione": "Popup aggiuntivo quando viene segnato un goal",
