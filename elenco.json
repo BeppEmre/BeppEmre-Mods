@@ -121,13 +121,13 @@
       "id": "fmvar",
       "nome": "VAR animato",
       "cartella": "FM - Plugin VAR ANIMATO",
-      "versione": "0.4.0",
+      "versione": "0.5.0",
       "descrizione": "Nel riquadro del VAR in partita compare l'arbitro animato: richiamo, rete concessa o revocata.",
       "avviso": null,
-      "file": "FMVar-0.4.0.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVar-0.4.0.zip",
-      "dimensione": 28100933,
-      "sha256": "e4ea4b0253fa5f328a2fa4cde64eb5cf46d1c4c643cd1dc30566bb1b2d5fbafa"
+      "file": "FMVar-0.5.0.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVar-0.5.0.zip",
+      "dimensione": 28108664,
+      "sha256": "42ea8897750d854d2e04c844c4d7a6d67f80e4c9a6ed67712283a81bdf18aa3d"
     },
     {
       "id": "fmvolti",
