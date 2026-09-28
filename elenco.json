@@ -1,6 +1,6 @@
 {
   "formato": 1,
-  "aggiornato": "2026-09-27",
+  "aggiornato": "2026-09-28",
   "autore": "BeppEmre",
   "app": {
     "versione": "1.2.2",
@@ -154,6 +154,20 @@
       "dimensione": 64026,
       "sha256": "f491c5012b922b81eab96de550a618602fb18654736589270c9dc7b6aadbb8a6",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmfinanze.jpg?v=14697cf2ba"
+    },
+    {
+      "id": "fmatmosfera",
+      "nome": "Atmosfera stadio",
+      "cartella": "FM - Plugin ATMOSFERA STADIO",
+      "descrizione": "Inni pre-match per squadre Italiane, Inglesi, Francesi, Spagnole e Tedesche.Cori durante il match; esultanza in caso di goal della propria squadra, fischi per quella avversaria. Popup aggiuntivo del marcatore.",
+      "avviso": "Attenzione, prima di aggiungere il plugin, verificare di avere uno spazio di almeno 660MB",
+      "icona": "<rect x=\"3\" y=\"7\" width=\"16\" height=\"10\" rx=\"2.5\"/><path d=\"M21 10.5v3\"/><path d=\"M6.5 10.5v3M10 10.5v3M13.5 10.5v3\"/>",
+      "versione": "0.2.1",
+      "file": "FMAtmosfera-0.2.1.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMAtmosfera-0.2.1.zip",
+      "dimensione": 675786777,
+      "sha256": "85deae4b73089262375cc7dc6800d9e380368fa190dc3f39d85fb9ea8621523b",
+      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmatmosfera.jpg?v=d22ae2531a"
     }
   ],
   "extra": [
