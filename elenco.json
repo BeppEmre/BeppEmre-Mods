@@ -161,7 +161,7 @@
       "cartella": "FM - Plugin ATMOSFERA STADIO",
       "descrizione": "Inni pre-match per squadre Italiane, Inglesi, Francesi, Spagnole e Tedesche.Cori durante il match; esultanza in caso di goal della propria squadra, fischi per quella avversaria. Popup aggiuntivo del marcatore.",
       "avviso": "Attenzione, prima di aggiungere il plugin, verificare di avere uno spazio di almeno 660MB",
-      "icona": "<rect x=\"3\" y=\"7\" width=\"16\" height=\"10\" rx=\"2.5\"/><path d=\"M21 10.5v3\"/><path d=\"M6.5 10.5v3M10 10.5v3M13.5 10.5v3\"/>",
+      "icona": "<path d=\"M3.5 10v4h3l9 4.5v-13l-9 4.5z\"/><path d=\"M6.5 14l1.5 5h2.5l-1-4.2\"/><path d=\"M19 9.5a3.5 3.5 0 0 1 0 5\"/>",
       "versione": "0.3.0",
       "file": "FMAtmosfera-0.3.0.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMAtmosfera-0.3.0.zip",
