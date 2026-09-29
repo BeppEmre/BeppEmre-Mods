@@ -162,11 +162,11 @@
       "descrizione": "Inni pre-match per squadre Italiane, Inglesi, Francesi, Spagnole e Tedesche.Cori durante il match; esultanza in caso",
       "avviso": "di goal della propria squadra, fischi per quella avversaria.",
       "icona": "<path d=\"M3.5 10v4h3l9 4.5v-13l-9 4.5z\"/><path d=\"M6.5 14l1.5 5h2.5l-1-4.2\"/><path d=\"M19 9.5a3.5 3.5 0 0 1 0 5\"/>",
-      "versione": "0.6.0",
-      "file": "FMAtmosfera-0.6.0.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMAtmosfera-0.6.0.zip",
-      "dimensione": 614760462,
-      "sha256": "60445c5a3160e2897ded96d7244784976d4a5039ce50754fc080e1b77b26034b",
+      "versione": "0.6.1",
+      "file": "FMAtmosfera-0.6.1.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMAtmosfera-0.6.1.zip",
+      "dimensione": 614048829,
+      "sha256": "19e3164f1f40baabe723dc0359d70c50d5e7dd5a6da6024b42cf6b52f72916da",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/3.jpg?v=bb2c9ec780"
     },
     {
