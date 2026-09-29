@@ -176,11 +176,11 @@
       "descrizione": "Popup aggiuntivo quando viene segnato un goal",
       "avviso": null,
       "icona": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7.5l3.8 2.8-1.5 4.4h-4.6l-1.5-4.4z\"/><path d=\"M12 3v4.5M20.4 9.6l-4.6.7M17.2 19.4l-2.9-4.7M6.8 19.4l2.9-4.7M3.6 9.6l4.6.7\"/>",
-      "versione": "0.1.0",
-      "file": "FMGoalPopup-0.1.0.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMGoalPopup-0.1.0.zip",
-      "dimensione": 34723723,
-      "sha256": "74cf4031a60eaf343f6057284fb2d056405ac2d8a53489f5d51b48367c3c878b",
+      "versione": "0.2.0",
+      "file": "FMGoalPopup-0.2.0.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMGoalPopup-0.2.0.zip",
+      "dimensione": 81680706,
+      "sha256": "e0de3a614a26d5ba0e866eb8ada7b9cf70f17059001e4f5704cc7ad6e5d1be4f",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/7.jpg?v=2b6c07359f"
     }
   ],
