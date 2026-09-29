@@ -37,13 +37,13 @@
       "id": "fmrings",
       "nome": "Anelli di condizione",
       "cartella": "FM - Plugin ANELLI DI CONDIZIONE",
-      "versione": "0.5.0",
+      "versione": "0.5.1",
       "descrizione": "Condizione, forma e fatica diventano anelli colorati con il valore esatto al centro: verde se stanno bene, rosso se c'è da preoccuparsi, INF per gli infortunati. Nella rosa, in tattica e in partita.",
       "avviso": null,
-      "file": "FMRings-0.5.0.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMRings-0.5.0.zip",
-      "dimensione": 21672,
-      "sha256": "226c0850da8622aa5d94a1492be857da183e63dbd32218cf89128e44ae6b077f"
+      "file": "FMRings-0.5.1.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMRings-0.5.1.zip",
+      "dimensione": 21698,
+      "sha256": "758b2c8af450a5e2344b39f0eb3866cd6f998b277d55251aea6b09c976442542"
     },
     {
       "id": "fmflags",
