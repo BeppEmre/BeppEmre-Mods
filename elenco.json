@@ -182,6 +182,20 @@
       "dimensione": 97825736,
       "sha256": "706da312b98e19a2e1a02ae6ac41174fa0a144f0c125f30a8b0db8dce64e08eb",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/7.jpg?v=2b6c07359f"
+    },
+    {
+      "id": "fmcalendario",
+      "nome": "Filtro calendario",
+      "cartella": "FM - Plugin FILTRO CALENDARIO",
+      "descrizione": "Nel calendario di ogni club, pulsanti per vedere solo campionato, coppa nazionale, supercoppa, coppe europee, internazionali o amichevoli, e ogni partita colorata in base alla sua competizione",
+      "avviso": null,
+      "icona": "<path d=\"M5 21V4\"/><path d=\"M5 4h11l-2 4 2 4H5\"/>",
+      "versione": "0.1.0",
+      "file": "FMCalendario-0.1.0.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMCalendario-0.1.0.zip",
+      "dimensione": 29243,
+      "sha256": "c9a5b67190e02945b2b38af3756a648c0c317967d4ef7a3432f1a5e481f290d4",
+      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmcalendario.jpg?v=35f3af05a4"
     }
   ],
   "extra": [
