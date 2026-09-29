@@ -350,6 +350,20 @@
           "testo": "popup del gol, separato da Atmosfera stadio: più piccolo, entra da sinistra"
         }
       ]
+    },
+    {
+      "id": "fmcalendario",
+      "nome": "Filtro calendario",
+      "cartella": "FM - Plugin FILTRO CALENDARIO",
+      "descrizione": "Permette di visualizzare il calendario di ogni club per competizione (amichevole, campionato, coppe ,etc).",
+      "avviso": null,
+      "icona": "<circle cx=\"11\" cy=\"11\" r=\"6.5\"/><path d=\"M20 20l-4.3-4.3\"/>",
+      "versione": "0.1.8",
+      "file": "FMCalendario-0.1.8.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMCalendario-0.1.8.zip",
+      "dimensione": 32417,
+      "sha256": "44d91a544d013b12a19d312b95dc88137f0dc0f58e2cec6338b510c62ff0e225",
+      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmcalendario.jpg?v=6c297acb41"
     }
   ],
   "extra": [
@@ -371,12 +385,6 @@
       "id": "fmatmosfera",
       "nome": "Atmosfera stadio",
       "cartella": "FM - Plugin ATMOSFERA STADIO",
-      "quando": "2026-09-29"
-    },
-    {
-      "id": "fmcalendario",
-      "nome": "Filtro calendario",
-      "cartella": "FM - Plugin FILTRO CALENDARIO",
       "quando": "2026-09-29"
     }
   ]
