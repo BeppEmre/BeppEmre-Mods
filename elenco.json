@@ -43,7 +43,25 @@
       "file": "FMRings-0.5.1.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMRings-0.5.1.zip",
       "dimensione": 21698,
-      "sha256": "758b2c8af450a5e2344b39f0eb3866cd6f998b277d55251aea6b09c976442542"
+      "sha256": "758b2c8af450a5e2344b39f0eb3866cd6f998b277d55251aea6b09c976442542",
+      "aggiornamenti": [
+        {
+          "versione": "0.5.1",
+          "testo": "il tasto per accendere e spegnere gli anelli ora è F6"
+        },
+        {
+          "versione": "0.5.0",
+          "testo": "nuove scale: condizione e forma da 50 a 100, fatica come \"freschezza\" da 0 a 100, colori sfumati"
+        },
+        {
+          "versione": "0.4",
+          "testo": "anelli anche nella barra in partita e nella lista dei cambi, INF in rosso per gli infortunati, niente più anelli \"fantasma\" scorrendo la rosa"
+        },
+        {
+          "versione": "0.1",
+          "testo": "anelli colorati al posto delle icone di condizione, forma e fatica"
+        }
+      ]
     },
     {
       "id": "fmflags",
@@ -55,7 +73,17 @@
       "file": "FMFlags-0.2.2.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMFlags-0.2.2.zip",
       "dimensione": 14240,
-      "sha256": "e4eed4e0802be95054e7db31d4d1b0a3dce948416d6a508149bdd6c27727d0b5"
+      "sha256": "e4eed4e0802be95054e7db31d4d1b0a3dce948416d6a508149bdd6c27727d0b5",
+      "aggiornamenti": [
+        {
+          "versione": "0.2.2",
+          "testo": "tolto il tasto F2 (si può rimettere un tasto nelle impostazioni del plugin)"
+        },
+        {
+          "versione": "0.2",
+          "testo": "prima versione pubblicata: bandiere nella barra della rosa in partita, anche per gli avversari"
+        }
+      ]
     },
     {
       "id": "fmforma",
@@ -67,7 +95,29 @@
       "file": "FMForma-0.3.8.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMForma-0.3.8.zip",
       "dimensione": 26576,
-      "sha256": "91f8c48a33934ebbe2800da633446b95d1bcadc8ce06eae1f58872c442a12a10"
+      "sha256": "91f8c48a33934ebbe2800da633446b95d1bcadc8ce06eae1f58872c442a12a10",
+      "aggiornamenti": [
+        {
+          "versione": "0.3.8",
+          "testo": "tolto il tasto F4 (si può rimettere un tasto nelle impostazioni del plugin)"
+        },
+        {
+          "versione": "0.3.7",
+          "testo": "il profilo mostra le stesse 5 partite del rapporto Forma"
+        },
+        {
+          "versione": "0.3.5",
+          "testo": "forma delle squadre in classifica a quadratini V/N/P"
+        },
+        {
+          "versione": "0.3.4",
+          "testo": "casella grigia \"S.V.\" per le partite non giocate, barre colorate nelle Valutazioni partita, voti medi colorati"
+        },
+        {
+          "versione": "0.1.0",
+          "testo": "voti delle ultime 5 partite in caselle colorate nella rosa e nel profilo"
+        }
+      ]
     },
     {
       "id": "fmheatmap",
@@ -79,7 +129,13 @@
       "file": "FMHeatmap-0.1.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMHeatmap-0.1.zip",
       "dimensione": 17617,
-      "sha256": "8cb2f686fa6f27bcf0d586999c450a84ae37e5bfa8e0f5183ee547e37c9e0b90"
+      "sha256": "8cb2f686fa6f27bcf0d586999c450a84ae37e5bfa8e0f5183ee547e37c9e0b90",
+      "aggiornamenti": [
+        {
+          "versione": "0.1",
+          "testo": "prima versione: mappa di calore nel riquadro Mappa passaggi"
+        }
+      ]
     },
     {
       "id": "fmstadiums",
@@ -91,7 +147,21 @@
       "file": "FMStadiums-0.6.2.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStadiums-0.6.2.zip",
       "dimensione": 2594952,
-      "sha256": "62f566fd4ca4675671ab0ddefac2d70ad0325295378c4a1288471bfd49ec168d"
+      "sha256": "62f566fd4ca4675671ab0ddefac2d70ad0325295378c4a1288471bfd49ec168d",
+      "aggiornamenti": [
+        {
+          "versione": "0.6.2",
+          "testo": "il tasto per accendere e spegnere le foto ora è F7"
+        },
+        {
+          "versione": "0.6.0",
+          "testo": "nuovo riquadro nel sito della società con nome, città, capienza e anno di costruzione"
+        },
+        {
+          "versione": "0.5",
+          "testo": "foto dello stadio nel sito della società, nel calendario e in partita, foto di riserva per gli stadi senza immagine"
+        }
+      ]
     },
     {
       "id": "fmboots",
@@ -103,19 +173,39 @@
       "file": "FMBoots-0.7.4.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMBoots-0.7.4.zip",
       "dimensione": 37185,
-      "sha256": "0c8da50da62ed46e808b1680d0a2e45ca362157a0fe50f80de933acd10ff7028"
+      "sha256": "0c8da50da62ed46e808b1680d0a2e45ca362157a0fe50f80de933acd10ff7028",
+      "aggiornamenti": [
+        {
+          "versione": "0.7.4",
+          "testo": "il tasto per accendere e spegnere le scarpette ora è F2"
+        },
+        {
+          "versione": "0.7.3",
+          "testo": "prima versione pubblicata: scarpette ai lati delle stelle in tattica, accendibili anche negli schieramenti della partita"
+        }
+      ]
     },
     {
       "id": "fmstoria",
       "nome": "Storia campionato",
       "cartella": "FM - Plugin STORIA CAMPIONATO",
       "versione": "0.2.2",
-      "descrizione": "Nel sito della società la storia in campionato diventa un grafico a barre: una colonna per stagione, colori dal verde del primo posto al rosso delle ultime, stellina per gli scudetti. F4 torna all'originale.",
+      "descrizione": "Nel sito della società la storia in campionato diventa un grafico a barre: una colonna per stagione, colori dal verde del primo posto al rosso delle ultime, stellina per gli scudetti e fasce quando il club cambia campionato.",
       "avviso": null,
       "file": "FMStoria-0.2.2.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStoria-0.2.2.zip",
       "dimensione": 18249,
-      "sha256": "9a6d4da826bfddb116838a5d55eab02705dd59540fdf500cb0add83054c39edc"
+      "sha256": "9a6d4da826bfddb116838a5d55eab02705dd59540fdf500cb0add83054c39edc",
+      "aggiornamenti": [
+        {
+          "versione": "0.2.2",
+          "testo": "tolto il tasto F4: il grafico a barre resta sempre acceso (si può rimettere un tasto nelle impostazioni)"
+        },
+        {
+          "versione": "0.2.1",
+          "testo": "prima versione pubblicata: grafico a barre al posto della linea, con fasce e sigle (SA, SB, C1A…) quando il club ha cambiato campionato"
+        }
+      ]
     },
     {
       "id": "fmvar",
@@ -127,7 +217,21 @@
       "file": "FMVar-0.5.0.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVar-0.5.0.zip",
       "dimensione": 28108664,
-      "sha256": "42ea8897750d854d2e04c844c4d7a6d67f80e4c9a6ed67712283a81bdf18aa3d"
+      "sha256": "42ea8897750d854d2e04c844c4d7a6d67f80e4c9a6ed67712283a81bdf18aa3d",
+      "aggiornamenti": [
+        {
+          "versione": "0.5.0",
+          "testo": "funziona anche nei campionati con grafica TV su licenza (es. Bundesliga), \"niente rigore\" riconosciuto correttamente"
+        },
+        {
+          "versione": "0.4.0",
+          "testo": "animazioni nuove e più fluide, gesto a tempo con la durata di ogni popup"
+        },
+        {
+          "versione": "0.2.0",
+          "testo": "arbitro animato dietro il riquadro del VAR: richiamo, decisione confermata, decisione annullata"
+        }
+      ]
     },
     {
       "id": "fmvolti",
@@ -139,7 +243,29 @@
       "file": "FMVolti-0.2.2.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVolti-0.2.2.zip",
       "dimensione": 46971,
-      "sha256": "569fe3a0ee68abaf19914a29a7b1b8cb5e5903a90daa6600842fd69eb65dc3b9"
+      "sha256": "569fe3a0ee68abaf19914a29a7b1b8cb5e5903a90daa6600842fd69eb65dc3b9",
+      "aggiornamenti": [
+        {
+          "versione": "0.2.2",
+          "testo": "spazio fisso per gli allenatori: i nomi di squadra lunghi si rimpiccioliscono o vanno a capo"
+        },
+        {
+          "versione": "0.2.1",
+          "testo": "volti più stabili e riconoscimento sicuro del tuo allenatore"
+        },
+        {
+          "versione": "0.2.0",
+          "testo": "la tua foto da allenatore, caricata dall'app, ovunque nel gioco"
+        },
+        {
+          "versione": "0.1.10",
+          "testo": "percentuale di vittorie in carriera degli allenatori"
+        },
+        {
+          "versione": "0.1.8",
+          "testo": "volti nei popup della partita e allenatori nel pre-partita, compatibile con ManagerPortrait"
+        }
+      ]
     },
     {
       "id": "fmfinanze",
@@ -153,7 +279,17 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMFinanze-0.4.1.zip",
       "dimensione": 64026,
       "sha256": "f491c5012b922b81eab96de550a618602fb18654736589270c9dc7b6aadbb8a6",
-      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmfinanze.jpg?v=14697cf2ba"
+      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmfinanze.jpg?v=14697cf2ba",
+      "aggiornamenti": [
+        {
+          "versione": "0.4.1",
+          "testo": "nuova disposizione su tre zone, tre club per colonna, club più ricco, più povero e con più budget, numeri più grandi e colori dei club"
+        },
+        {
+          "versione": "0.3.1",
+          "testo": "prima versione pubblicata: saldo e budget di tutti i club in ordine di classifica, cifre nella tua valuta"
+        }
+      ]
     },
     {
       "id": "fmatmosfera",
@@ -167,7 +303,25 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMAtmosfera-0.6.1.zip",
       "dimensione": 614048829,
       "sha256": "19e3164f1f40baabe723dc0359d70c50d5e7dd5a6da6024b42cf6b52f72916da",
-      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmatmosfera.jpg?v=073c9b3f5c"
+      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmatmosfera.jpg?v=073c9b3f5c",
+      "aggiornamenti": [
+        {
+          "versione": "0.6.0",
+          "testo": "diventa \"Cori da stadio\", solo audio (il popup del gol passa al plugin Goal popup), cori veri per 213 squadre dei cinque grandi campionati, niente inno di casa nelle coppe europee"
+        },
+        {
+          "versione": "0.4.0",
+          "testo": "scritta del gol spostata a sinistra con animazione"
+        },
+        {
+          "versione": "0.3.0",
+          "testo": "niente più audio durante i replay, stop dell'audio all'intervallo"
+        },
+        {
+          "versione": "0.2.1",
+          "testo": "nasce come \"Atmosfera stadio\": inni di casa, cori, boato e fischi al gol, scritta GOAL"
+        }
+      ]
     },
     {
       "id": "fmgoalpopup",
@@ -181,13 +335,27 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMGoalPopup-0.3.1.zip",
       "dimensione": 97825730,
       "sha256": "16ddd39c34044db735d4364e145cc19a8f3a92ca96d2b9c3bad65ab0a7eb6508",
-      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/7.jpg?v=2b6c07359f"
+      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/7.jpg?v=2b6c07359f",
+      "aggiornamenti": [
+        {
+          "versione": "0.3.0",
+          "testo": "5 animazioni del gol, mai la stessa due volte di fila, volti trovati in più formati di facepack"
+        },
+        {
+          "versione": "0.2.0",
+          "testo": "popup per cartellini gialli e rossi, animazioni del gol alternate, volti anche per i giocatori generati"
+        },
+        {
+          "versione": "0.1.0",
+          "testo": "popup del gol, separato da Atmosfera stadio: più piccolo, entra da sinistra"
+        }
+      ]
     },
     {
       "id": "fmcalendario",
       "nome": "Filtro calendario",
       "cartella": "FM - Plugin FILTRO CALENDARIO",
-      "descrizione": "Nel calendario di ogni club, pulsanti per vedere solo campionato, coppa nazionale, supercoppa, coppe europee, internazionali o amichevoli, e ogni partita colorata in base alla sua competizione. F6 accende e spegne.",
+      "descrizione": "Nel calendario di ogni club, pulsanti per vedere solo campionato, coppa nazionale, supercoppa, coppe europee, internazionali o amichevoli, e ogni partita colorata in base alla sua competizione. F5 accende e spegne.",
       "avviso": null,
       "icona": "<path d=\"M5 21V4\"/><path d=\"M5 4h11l-2 4 2 4H5\"/>",
       "versione": "0.1.2",
@@ -195,7 +363,17 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMCalendario-0.1.2.zip",
       "dimensione": 31696,
       "sha256": "890898898b9a12bf7ac32c58298a418adc59e3e91d34c591992b47ff30e3fa71",
-      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmcalendario.jpg?v=35f3af05a4"
+      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmcalendario.jpg?v=35f3af05a4",
+      "aggiornamenti": [
+        {
+          "versione": "0.1.2",
+          "testo": "il tasto per accendere e spegnere ora è F5"
+        },
+        {
+          "versione": "0.1.0",
+          "testo": "prima versione: un filtro per ogni tipo di competizione, righe colorate e barra di ripartizione della stagione"
+        }
+      ]
     }
   ],
   "extra": [
