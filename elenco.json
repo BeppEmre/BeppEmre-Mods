@@ -372,11 +372,11 @@
       "descrizione": "TESTI PER L'APP — Confronto giocatori v0.1.0",
       "avviso": "Descrizione: Il confronto fra due giocatori diventa colorato: numeri per fascia, riquadro su chi vince ogni attributo, radar a 6 aree, profilo dei due, data di nascita e acquisto consigliato con il volto. F9 accende e spegne.",
       "icona": "<circle cx=\"12\" cy=\"9\" r=\"4\"/><path d=\"M4.5 20c1.2-3.8 4-5.5 7.5-5.5s6.3 1.7 7.5 5.5\"/>",
-      "versione": "0.1.4",
-      "file": "FMConfronto-0.1.4.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMConfronto-0.1.4.zip",
-      "dimensione": 44334,
-      "sha256": "698f5a109f4556a8baa653da0c585c2e4f0ff300227b529af48089fefdb018ff",
+      "versione": "0.1.5",
+      "file": "FMConfronto-0.1.5.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMConfronto-0.1.5.zip",
+      "dimensione": 44709,
+      "sha256": "326c51cff6251cebd9d68d1be4ef3a09e5a622a76f061e8dfdaa3f608ff41805",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmconfronto.jpg?v=92507171f8"
     }
   ],
