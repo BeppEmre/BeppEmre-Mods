@@ -85,13 +85,13 @@
       "id": "fmstadiums",
       "nome": "Immagine stadi",
       "cartella": "FM - Plugin IMMAGINE STADI",
-      "versione": "0.6.1",
+      "versione": "0.6.2",
       "descrizione": "La foto dello stadio nel sito della società (con nome, città, capienza e anno), dietro la partita selezionata nel calendario e nel riquadro del giorno della partita. Foto di riserva per gli stadi senza.",
       "avviso": "Serve un pacchetto grafico degli stadi in Documenti\\Sports Interactive\\Football Manager 26\\graphics (per esempio nella cartella Stadi).",
-      "file": "FMStadiums-0.6.1.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStadiums-0.6.1.zip",
-      "dimensione": 2594821,
-      "sha256": "3bd1c56b687be36d454cab08b871517de9a096c6f19d84719c8c3dd8248c59fb"
+      "file": "FMStadiums-0.6.2.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStadiums-0.6.2.zip",
+      "dimensione": 2594952,
+      "sha256": "62f566fd4ca4675671ab0ddefac2d70ad0325295378c4a1288471bfd49ec168d"
     },
     {
       "id": "fmboots",
