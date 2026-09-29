@@ -97,13 +97,13 @@
       "id": "fmboots",
       "nome": "Logo piede destro e sinistro",
       "cartella": "FM - Plugin LOGO PIEDE DESTRO E SINISTRO",
-      "versione": "0.7.3",
+      "versione": "0.7.4",
       "descrizione": "In tattica, ai lati delle stelle di ogni giocatore, due scarpette colorate dicono quanto è forte il piede sinistro e il destro: verde forte, giallo nella media, rosso debole.",
       "avviso": null,
-      "file": "FMBoots-0.7.3.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMBoots-0.7.3.zip",
-      "dimensione": 37158,
-      "sha256": "7027ad34545be883caf2eb6665c1c444f32aaed3107409ea55be72d1823e2829"
+      "file": "FMBoots-0.7.4.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMBoots-0.7.4.zip",
+      "dimensione": 37185,
+      "sha256": "0c8da50da62ed46e808b1680d0a2e45ca362157a0fe50f80de933acd10ff7028"
     },
     {
       "id": "fmstoria",
