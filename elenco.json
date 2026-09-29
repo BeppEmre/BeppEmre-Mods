@@ -190,11 +190,11 @@
       "descrizione": "Nel calendario di ogni club, pulsanti per vedere solo campionato, coppa nazionale, supercoppa, coppe europee, internazionali o amichevoli, e ogni partita colorata in base alla sua competizione",
       "avviso": null,
       "icona": "<path d=\"M5 21V4\"/><path d=\"M5 4h11l-2 4 2 4H5\"/>",
-      "versione": "0.1.0",
-      "file": "FMCalendario-0.1.0.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMCalendario-0.1.0.zip",
-      "dimensione": 29243,
-      "sha256": "c9a5b67190e02945b2b38af3756a648c0c317967d4ef7a3432f1a5e481f290d4",
+      "versione": "0.1.1",
+      "file": "FMCalendario-0.1.1.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMCalendario-0.1.1.zip",
+      "dimensione": 31667,
+      "sha256": "5d35ac154d7959c3cca4a1495fe8e384bbb9f14c26582c7f305ac7cce1a6efa0",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmcalendario.jpg?v=35f3af05a4"
     }
   ],
