@@ -109,13 +109,13 @@
       "id": "fmstoria",
       "nome": "Storia campionato",
       "cartella": "FM - Plugin STORIA CAMPIONATO",
-      "versione": "0.2.1",
+      "versione": "0.2.2",
       "descrizione": "Nel sito della società la storia in campionato diventa un grafico a barre: una colonna per stagione, colori dal verde del primo posto al rosso delle ultime, stellina per gli scudetti. F4 torna all'originale.",
       "avviso": null,
-      "file": "FMStoria-0.2.1.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStoria-0.2.1.zip",
-      "dimensione": 18192,
-      "sha256": "f97bb1c55ab6187937686752a3770d310cbe964ae2a57bdfd8605a9f2d956c22"
+      "file": "FMStoria-0.2.2.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStoria-0.2.2.zip",
+      "dimensione": 18249,
+      "sha256": "9a6d4da826bfddb116838a5d55eab02705dd59540fdf500cb0add83054c39edc"
     },
     {
       "id": "fmvar",
