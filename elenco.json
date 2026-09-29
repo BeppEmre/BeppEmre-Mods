@@ -171,9 +171,9 @@
     },
     {
       "id": "fmgoalpopup",
-      "nome": "Goal popup",
+      "nome": "Popup aggiuntivo in caso di goal (5 versioni random) e in caso di cartellino giall o rosso.",
       "cartella": "FM - Plugin GOAL POPUP",
-      "descrizione": "Popup aggiuntivo quando viene segnato un goal",
+      "descrizione": "Popup aggiuntivo in caso di goal (5 versioni random) e in caso di cartellino giall o rosso.",
       "avviso": null,
       "icona": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7.5l3.8 2.8-1.5 4.4h-4.6l-1.5-4.4z\"/><path d=\"M12 3v4.5M20.4 9.6l-4.6.7M17.2 19.4l-2.9-4.7M6.8 19.4l2.9-4.7M3.6 9.6l4.6.7\"/>",
       "versione": "0.3.0",
