@@ -171,7 +171,7 @@
     },
     {
       "id": "fmgoalpopup",
-      "nome": "Popup aggiuntivo in caso di goal (5 versioni random) e in caso di cartellino giall o rosso.",
+      "nome": "Popup Goals e cartellini",
       "cartella": "FM - Plugin GOAL POPUP",
       "descrizione": "Popup aggiuntivo in caso di goal (5 versioni random) e in caso di cartellino giall o rosso.",
       "avviso": null,
