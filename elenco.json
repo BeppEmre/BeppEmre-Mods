@@ -350,30 +350,6 @@
           "testo": "popup del gol, separato da Atmosfera stadio: più piccolo, entra da sinistra"
         }
       ]
-    },
-    {
-      "id": "fmcalendario",
-      "nome": "Filtro calendario",
-      "cartella": "FM - Plugin FILTRO CALENDARIO",
-      "descrizione": "Nel calendario di ogni club, pulsanti per vedere solo campionato, coppa nazionale, supercoppa, coppe europee, internazionali o amichevoli, e ogni partita colorata in base alla sua competizione. F5 accende e spegne.",
-      "avviso": null,
-      "icona": "<path d=\"M5 21V4\"/><path d=\"M5 4h11l-2 4 2 4H5\"/>",
-      "versione": "0.1.5",
-      "file": "FMCalendario-0.1.5.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMCalendario-0.1.5.zip",
-      "dimensione": 33267,
-      "sha256": "b8f002261c9f6a0abe8f9fc053e5f20ee8557bcf3b266e81a33979e657ca8955",
-      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmcalendario.jpg?v=35f3af05a4",
-      "aggiornamenti": [
-        {
-          "versione": "0.1.2",
-          "testo": "il tasto per accendere e spegnere ora è F5"
-        },
-        {
-          "versione": "0.1.0",
-          "testo": "prima versione: un filtro per ogni tipo di competizione, righe colorate e barra di ripartizione della stagione"
-        }
-      ]
     }
   ],
   "extra": [
@@ -395,6 +371,12 @@
       "id": "fmatmosfera",
       "nome": "Atmosfera stadio",
       "cartella": "FM - Plugin ATMOSFERA STADIO",
+      "quando": "2026-09-29"
+    },
+    {
+      "id": "fmcalendario",
+      "nome": "Filtro calendario",
+      "cartella": "FM - Plugin FILTRO CALENDARIO",
       "quando": "2026-09-29"
     }
   ]
