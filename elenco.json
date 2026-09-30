@@ -3,10 +3,10 @@
   "aggiornato": "2026-09-30",
   "autore": "BeppEmre",
   "app": {
-    "versione": "1.3.3",
+    "versione": "1.4.0",
     "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/app/FMPluginInstaller.exe",
-    "dimensione": 2843648,
-    "sha256": "dd5a581905c96fe8acf39e7de35921ff4d7e00193fb7dd4a85512aec6c838f95"
+    "dimensione": 2867200,
+    "sha256": "3f182b9e9e23332788b7bcf898ebaffc89b245146b06ebb0ef8d363b282d2f43"
   },
   "bepinex": {
     "versione": "6.0.0-be.754",
@@ -61,7 +61,8 @@
           "versione": "0.1",
           "testo": "anelli colorati al posto delle icone di condizione, forma e fatica"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-25"
     },
     {
       "id": "fmflags",
@@ -83,7 +84,8 @@
           "versione": "0.2",
           "testo": "prima versione pubblicata: bandiere nella barra della rosa in partita, anche per gli avversari"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-25"
     },
     {
       "id": "fmforma",
@@ -117,7 +119,8 @@
           "versione": "0.1.0",
           "testo": "voti delle ultime 5 partite in caselle colorate nella rosa e nel profilo"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-25"
     },
     {
       "id": "fmheatmap",
@@ -135,7 +138,8 @@
           "versione": "0.1",
           "testo": "prima versione: mappa di calore nel riquadro Mappa passaggi"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-25"
     },
     {
       "id": "fmstadiums",
@@ -161,7 +165,8 @@
           "versione": "0.5",
           "testo": "foto dello stadio nel sito della società, nel calendario e in partita, foto di riserva per gli stadi senza immagine"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-25"
     },
     {
       "id": "fmboots",
@@ -183,7 +188,8 @@
           "versione": "0.7.3",
           "testo": "prima versione pubblicata: scarpette ai lati delle stelle in tattica, accendibili anche negli schieramenti della partita"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-25"
     },
     {
       "id": "fmstoria",
@@ -205,7 +211,8 @@
           "versione": "0.2.1",
           "testo": "prima versione pubblicata: grafico a barre al posto della linea, con fasce e sigle (SA, SB, C1A…) quando il club ha cambiato campionato"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-25"
     },
     {
       "id": "fmvar",
@@ -231,7 +238,8 @@
           "versione": "0.2.0",
           "testo": "arbitro animato dietro il riquadro del VAR: richiamo, decisione confermata, decisione annullata"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-25"
     },
     {
       "id": "fmvolti",
@@ -265,7 +273,8 @@
           "versione": "0.1.8",
           "testo": "volti nei popup della partita e allenatori nel pre-partita, compatibile con ManagerPortrait"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-25"
     },
     {
       "id": "fmfinanze",
@@ -289,7 +298,8 @@
           "versione": "0.3.1",
           "testo": "prima versione pubblicata: saldo e budget di tutti i club in ordine di classifica, cifre nella tua valuta"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-27"
     },
     {
       "id": "fmatmosfera",
@@ -321,7 +331,8 @@
           "versione": "0.2.1",
           "testo": "nasce come \"Atmosfera stadio\": inni di casa, cori, boato e fischi al gol, scritta GOAL"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-28"
     },
     {
       "id": "fmgoalpopup",
@@ -349,7 +360,8 @@
           "versione": "0.1.0",
           "testo": "popup del gol, separato da Atmosfera stadio: più piccolo, entra da sinistra"
         }
-      ]
+      ],
+      "pubblicato": "2026-09-28"
     },
     {
       "id": "fmcalendario",
@@ -363,7 +375,8 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMCalendario-0.1.8.zip",
       "dimensione": 32417,
       "sha256": "44d91a544d013b12a19d312b95dc88137f0dc0f58e2cec6338b510c62ff0e225",
-      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmcalendario.jpg?v=6c297acb41"
+      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmcalendario.jpg?v=6c297acb41",
+      "pubblicato": "2026-09-29"
     },
     {
       "id": "fmconfronto",
@@ -377,7 +390,8 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMConfronto-0.1.6.zip",
       "dimensione": 45403,
       "sha256": "1cc59e4282efc1200173cfdc70b38bc9a03beca2618f3306137f191e8a991aca",
-      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmconfronto.jpg?v=92507171f8"
+      "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmconfronto.jpg?v=92507171f8",
+      "pubblicato": "2026-09-29"
     }
   ],
   "extra": [
