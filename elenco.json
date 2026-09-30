@@ -352,11 +352,11 @@
       "descrizione": "A ogni gol un popup animato con volto, numero e nome del marcatore e minuto (5 animazioni, mai la stessa due volte di fila); popup anche per ammonizioni, doppie ammonizioni ed espulsioni. Entra di lato senza coprire l'azione.",
       "avviso": null,
       "icona": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7.5l3.8 2.8-1.5 4.4h-4.6l-1.5-4.4z\"/><path d=\"M12 3v4.5M20.4 9.6l-4.6.7M17.2 19.4l-2.9-4.7M6.8 19.4l2.9-4.7M3.6 9.6l4.6.7\"/>",
-      "versione": "0.3.1",
-      "file": "FMGoalPopup-0.3.1.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMGoalPopup-0.3.1.zip",
-      "dimensione": 97825730,
-      "sha256": "16ddd39c34044db735d4364e145cc19a8f3a92ca96d2b9c3bad65ab0a7eb6508",
+      "versione": "0.4.1",
+      "file": "FMGoalPopup-0.4.1.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMGoalPopup-0.4.1.zip",
+      "dimensione": 99638034,
+      "sha256": "9ff771165356a19e398f18bfb8fc3b7aed3f83b01e958867015813fd366ac28e",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/7.jpg?v=2b6c07359f",
       "aggiornamenti": [
         {
