@@ -3,10 +3,10 @@
   "aggiornato": "2026-09-30",
   "autore": "BeppEmre",
   "app": {
-    "versione": "1.4.2",
+    "versione": "1.4.4",
     "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/app/FMPluginInstaller.exe",
-    "dimensione": 2871296,
-    "sha256": "61e63b6dadbbef98390d135e28679de1eea3d4bc94284f4f9e1fdda675c2b2de"
+    "dimensione": 2873856,
+    "sha256": "fa50330918dcc505598a29005334bdb29e78a82529180a847b0fc5a5f8a922c9"
   },
   "bepinex": {
     "versione": "6.0.0-be.754",
