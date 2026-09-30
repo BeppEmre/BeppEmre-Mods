@@ -38,7 +38,7 @@
       "nome": "Anelli di condizione",
       "cartella": "FM - Plugin ANELLI DI CONDIZIONE",
       "versione": "0.5.1",
-      "descrizione": "Condizione, forma e fatica diventano anelli colorati con il valore esatto al centro: verde se stanno bene, rosso se c'è da preoccuparsi, INF per gli infortunati. Nella rosa, in tattica e in partita.",
+      "descrizione": "Nella rosa, in tattica e in partita condizione, forma e fatica diventano anelli colorati con il valore esatto al centro (da 50 a 100, la fatica come freschezza): verde se stanno bene, rosso se c'è da preoccuparsi, INF per gli infortunati.",
       "avviso": null,
       "file": "FMRings-0.5.1.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMRings-0.5.1.zip",
@@ -62,14 +62,15 @@
           "testo": "anelli colorati al posto delle icone di condizione, forma e fatica"
         }
       ],
-      "pubblicato": "2026-09-25"
+      "pubblicato": "2026-09-25",
+      "tasto": "F6 accende/spegne"
     },
     {
       "id": "fmflags",
       "nome": "Bandiera nazionalità",
       "cartella": "FM - Plugin BANDIERA NAZIONALITA'",
       "versione": "0.2.2",
-      "descrizione": "In partita, nella barra della rosa in basso, accanto al volto di ogni giocatore compare la bandiera ufficiale della sua nazionalità, anche per gli avversari. Si può accendere anche negli schieramenti.",
+      "descrizione": "In partita, nella barra della rosa in basso, accanto al volto di ogni giocatore (anche degli avversari) compare la bandiera ufficiale della sua nazionalità. Dalle impostazioni si può attivare anche negli schieramenti.",
       "avviso": null,
       "file": "FMFlags-0.2.2.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMFlags-0.2.2.zip",
@@ -85,14 +86,15 @@
           "testo": "prima versione pubblicata: bandiere nella barra della rosa in partita, anche per gli avversari"
         }
       ],
-      "pubblicato": "2026-09-25"
+      "pubblicato": "2026-09-25",
+      "tasto": "N.C."
     },
     {
       "id": "fmforma",
       "nome": "Forma (giocatore e classifica)",
       "cartella": "FM - Plugin FORMA (Giocatore e Classifica)",
       "versione": "0.3.8",
-      "descrizione": "Al posto delle barrette della forma, caselle colorate con il voto vero delle ultime 5 partite (rosa, profilo, rapporti), S.V. in grigio per chi non ha giocato e forma delle squadre in classifica a V/N/P.",
+      "descrizione": "Le barrette della forma diventano 5 caselle con il voto vero delle ultime 5 partite, dal rosso al verde (S.V. in grigio se non ha giocato), nella rosa, nel profilo e nei rapporti. In classifica la forma delle squadre in quadratini V/N/P.",
       "avviso": null,
       "file": "FMForma-0.3.8.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMForma-0.3.8.zip",
@@ -120,14 +122,15 @@
           "testo": "voti delle ultime 5 partite in caselle colorate nella rosa e nel profilo"
         }
       ],
-      "pubblicato": "2026-09-25"
+      "pubblicato": "2026-09-25",
+      "tasto": "N.C."
     },
     {
       "id": "fmheatmap",
       "nome": "Heatmap",
       "cartella": "FM - Plugin HEATMAP",
       "versione": "0.1",
-      "descrizione": "Nel riquadro Mappa passaggi della partita compare la vera mappa di calore della tua squadra, costruita dai movimenti dei giocatori. F8 passa dalla mappa di calore a quella dei passaggi.",
+      "descrizione": "In partita, nel riquadro Mappa passaggi, compare la vera mappa di calore della tua squadra: il plugin registra la posizione di ogni giocatore momento per momento e colora il campo dal giallo al rosso nelle zone più battute.",
       "avviso": null,
       "file": "FMHeatmap-0.1.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMHeatmap-0.1.zip",
@@ -139,14 +142,15 @@
           "testo": "prima versione: mappa di calore nel riquadro Mappa passaggi"
         }
       ],
-      "pubblicato": "2026-09-25"
+      "pubblicato": "2026-09-25",
+      "tasto": "F8 mappa di calore/passaggi"
     },
     {
       "id": "fmstadiums",
       "nome": "Immagine stadi",
       "cartella": "FM - Plugin IMMAGINE STADI",
       "versione": "0.6.2",
-      "descrizione": "La foto dello stadio nel sito della società (con nome, città, capienza e anno), dietro la partita selezionata nel calendario e nel riquadro del giorno della partita. Foto di riserva per gli stadi senza.",
+      "descrizione": "La foto vera dello stadio: nel sito della società in un riquadro con nome, città, capienza e anno di costruzione, dietro la partita selezionata nel calendario e nel riquadro del giorno partita. Foto di riserva per gli stadi senza immagine.",
       "avviso": "Serve un pacchetto grafico degli stadi in Documenti\\Sports Interactive\\Football Manager 26\\graphics (per esempio nella cartella Stadi).",
       "file": "FMStadiums-0.6.2.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStadiums-0.6.2.zip",
@@ -166,14 +170,15 @@
           "testo": "foto dello stadio nel sito della società, nel calendario e in partita, foto di riserva per gli stadi senza immagine"
         }
       ],
-      "pubblicato": "2026-09-25"
+      "pubblicato": "2026-09-25",
+      "tasto": "F7 accende/spegne"
     },
     {
       "id": "fmboots",
       "nome": "Logo piede destro e sinistro",
       "cartella": "FM - Plugin LOGO PIEDE DESTRO E SINISTRO",
       "versione": "0.7.4",
-      "descrizione": "In tattica, ai lati delle stelle di ogni giocatore, due scarpette colorate dicono quanto è forte il piede sinistro e il destro: verde forte, giallo nella media, rosso debole.",
+      "descrizione": "In tattica, ai lati delle stelle di ogni giocatore, due scarpette colorate indicano la qualità del piede sinistro e del destro: verde forte, giallo nella media, rosso debole. Si possono attivare anche negli schieramenti della partita.",
       "avviso": null,
       "file": "FMBoots-0.7.4.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMBoots-0.7.4.zip",
@@ -189,14 +194,15 @@
           "testo": "prima versione pubblicata: scarpette ai lati delle stelle in tattica, accendibili anche negli schieramenti della partita"
         }
       ],
-      "pubblicato": "2026-09-25"
+      "pubblicato": "2026-09-25",
+      "tasto": "F2 accende/spegne"
     },
     {
       "id": "fmstoria",
       "nome": "Storia campionato",
       "cartella": "FM - Plugin STORIA CAMPIONATO",
       "versione": "0.2.2",
-      "descrizione": "Nel sito della società la storia in campionato diventa un grafico a barre: una colonna per stagione, colori dal verde del primo posto al rosso delle ultime, stellina per gli scudetti e fasce quando il club cambia campionato.",
+      "descrizione": "Nel sito della società la storia in campionato diventa un grafico a barre: una colonna per stagione, dal verde del primo posto al rosso delle ultime, stellina per i titoli e fasce con la sigla (SA, SB, C1A…) quando il club cambia categoria.",
       "avviso": null,
       "file": "FMStoria-0.2.2.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStoria-0.2.2.zip",
@@ -212,14 +218,15 @@
           "testo": "prima versione pubblicata: grafico a barre al posto della linea, con fasce e sigle (SA, SB, C1A…) quando il club ha cambiato campionato"
         }
       ],
-      "pubblicato": "2026-09-25"
+      "pubblicato": "2026-09-25",
+      "tasto": "N.C."
     },
     {
       "id": "fmvar",
       "nome": "VAR animato",
       "cartella": "FM - Plugin VAR ANIMATO",
       "versione": "0.5.0",
-      "descrizione": "Quando in partita compare il riquadro del VAR, dietro le scritte appare l'arbitro animato che fa il gesto: richiamo al VAR, decisione confermata o annullata. Il gesto va a tempo con la durata del popup.",
+      "descrizione": "Quando in partita compare il riquadro del VAR, dietro le scritte l'arbitro animato fa il gesto giusto: richiamo al monitor, decisione confermata o annullata, a tempo con il popup. Funziona anche nei campionati con grafica TV su licenza.",
       "avviso": null,
       "file": "FMVar-0.5.0.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVar-0.5.0.zip",
@@ -239,14 +246,15 @@
           "testo": "arbitro animato dietro il riquadro del VAR: richiamo, decisione confermata, decisione annullata"
         }
       ],
-      "pubblicato": "2026-09-25"
+      "pubblicato": "2026-09-25",
+      "tasto": "N.C."
     },
     {
       "id": "fmvolti",
       "nome": "Volti (popup e allenatori)",
       "cartella": "FM - Plugin VOLTI (Popup e Allenatori)",
       "versione": "0.2.2",
-      "descrizione": "Il volto del giocatore nei popup della partita (gol, assist, cartellini, cambi) e i volti degli allenatori con il loro nome nel pre-partita. Dall'app puoi mettere la tua foto come volto del tuo allenatore.",
+      "descrizione": "Il volto del giocatore nei popup della partita (gol, assist, cartellini, cambi) e, nel pre-partita, i volti dei due allenatori con nome e percentuale di vittorie. Dall'app puoi caricare la tua foto come volto del tuo allenatore.",
       "avviso": "Per i volti serve un facepack in Documenti\\Sports Interactive\\Football Manager 26\\graphics: senza, compaiono le iniziali. ManagerPortrait è facoltativo.",
       "file": "FMVolti-0.2.2.zip",
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVolti-0.2.2.zip",
@@ -274,13 +282,14 @@
           "testo": "volti nei popup della partita e allenatori nel pre-partita, compatibile con ManagerPortrait"
         }
       ],
-      "pubblicato": "2026-09-25"
+      "pubblicato": "2026-09-25",
+      "tasto": "N.C."
     },
     {
       "id": "fmfinanze",
       "nome": "Finanze dei clubs",
       "cartella": "FM - Plugin FINANZE CLUB",
-      "descrizione": "Nella pagina di ogni campionato, sotto i riquadri, i conti di tutti i club in ordine di classifica: saldo in bilancio e budget trasferimenti, più il club più ricco e il più povero. F3 mostra o nasconde.",
+      "descrizione": "Nella pagina principale di ogni campionato, sotto i riquadri, i conti di tutti i club in ordine di classifica: saldo in bilancio e budget trasferimenti nella tua valuta, con il club più ricco, il più povero e quello con più budget.",
       "avviso": null,
       "icona": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2.5\"/><path d=\"M3 9h18M3 14h18M8 4v16\"/>",
       "versione": "0.4.1",
@@ -299,13 +308,14 @@
           "testo": "prima versione pubblicata: saldo e budget di tutti i club in ordine di classifica, cifre nella tua valuta"
         }
       ],
-      "pubblicato": "2026-09-27"
+      "pubblicato": "2026-09-27",
+      "tasto": "F3 mostra/nasconde"
     },
     {
       "id": "fmatmosfera",
       "nome": "Cori da stadio",
       "cartella": "FM - Plugin CORI DA STADIO",
-      "descrizione": "L'atmosfera dello stadio in partita: inno della squadra di casa prima del calcio d'inizio, cori veri di 213 squadre dei cinque grandi campionati, boato al gol di casa e fischi a quello ospite.",
+      "descrizione": "L'atmosfera dello stadio in partita, solo audio: inno della squadra di casa prima del calcio d'inizio (non nelle coppe europee), cori veri di 213 squadre dei cinque grandi campionati, boato al gol di casa e fischi a quello ospite.",
       "avviso": "Pacchetto grande (circa 590 MB): controlla di avere spazio libero sul disco.",
       "icona": "<path d=\"M3.5 10v4h3l9 4.5v-13l-9 4.5z\"/><path d=\"M6.5 14l1.5 5h2.5l-1-4.2\"/><path d=\"M19 9.5a3.5 3.5 0 0 1 0 5\"/>",
       "versione": "0.6.2",
@@ -332,13 +342,14 @@
           "testo": "nasce come \"Atmosfera stadio\": inni di casa, cori, boato e fischi al gol, scritta GOAL"
         }
       ],
-      "pubblicato": "2026-09-28"
+      "pubblicato": "2026-09-28",
+      "tasto": "N.C."
     },
     {
       "id": "fmgoalpopup",
       "nome": "Popup Goals e cartellini",
       "cartella": "FM - Plugin GOAL POPUP",
-      "descrizione": "A ogni gol un popup animato con volto del marcatore, numero, nome e minuto (5 animazioni a caso), e popup per ammonizioni ed espulsioni. Non copre l'azione.",
+      "descrizione": "A ogni gol un popup animato con volto, numero e nome del marcatore e minuto (5 animazioni, mai la stessa due volte di fila); popup anche per ammonizioni, doppie ammonizioni ed espulsioni. Entra di lato senza coprire l'azione.",
       "avviso": null,
       "icona": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7.5l3.8 2.8-1.5 4.4h-4.6l-1.5-4.4z\"/><path d=\"M12 3v4.5M20.4 9.6l-4.6.7M17.2 19.4l-2.9-4.7M6.8 19.4l2.9-4.7M3.6 9.6l4.6.7\"/>",
       "versione": "0.3.1",
@@ -361,13 +372,14 @@
           "testo": "popup del gol, separato da Atmosfera stadio: più piccolo, entra da sinistra"
         }
       ],
-      "pubblicato": "2026-09-28"
+      "pubblicato": "2026-09-28",
+      "tasto": "F3 prova gol · F4 prova cartellini"
     },
     {
       "id": "fmcalendario",
       "nome": "Filtro calendario",
       "cartella": "FM - Plugin FILTRO CALENDARIO",
-      "descrizione": "Permette di visualizzare il calendario di ogni club per competizione (amichevole, campionato, coppe ,etc).",
+      "descrizione": "Nel calendario di ogni club compaiono i pulsanti per vedere solo campionato, coppa nazionale, supercoppa, coppe europee, internazionali o amichevoli; ogni partita è colorata per competizione e una barra mostra come si divide la stagione.",
       "avviso": null,
       "icona": "<circle cx=\"11\" cy=\"11\" r=\"6.5\"/><path d=\"M20 20l-4.3-4.3\"/>",
       "versione": "0.1.8",
@@ -376,14 +388,29 @@
       "dimensione": 32417,
       "sha256": "44d91a544d013b12a19d312b95dc88137f0dc0f58e2cec6338b510c62ff0e225",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmcalendario.jpg?v=6c297acb41",
-      "pubblicato": "2026-09-29"
+      "pubblicato": "2026-09-29",
+      "aggiornamenti": [
+        {
+          "versione": "0.1.6",
+          "testo": "corretta la chiusura del gioco della versione 0.1.3: si torna al funzionamento della prima versione stabile, con i pulsanti nuovi nello stile del gioco, più in alto e in grassetto"
+        },
+        {
+          "versione": "0.1.2",
+          "testo": "il tasto per accendere e spegnere ora è F5"
+        },
+        {
+          "versione": "0.1.0",
+          "testo": "prima versione: un filtro per ogni tipo di competizione, righe colorate e barra di ripartizione della stagione"
+        }
+      ],
+      "tasto": "F5 accende/spegne"
     },
     {
       "id": "fmconfronto",
       "nome": "Confronto Giocatori",
       "cartella": "FM - Plugin CONFRONTO",
-      "descrizione": "TESTI PER L'APP — Confronto giocatori v0.1.0",
-      "avviso": "Descrizione: Il confronto fra due giocatori diventa colorato: numeri per fascia, riquadro su chi vince ogni attributo, radar a 6 aree, profilo dei due, data di nascita e acquisto consigliato con il volto. F9 accende e spegne.",
+      "descrizione": "Nel Confronto giocatori (scheda Qualità) i numeri si colorano per fascia, ogni riga evidenzia chi vince e di quanto, e compaiono radar a 6 aree, profilo dei due, età con data di nascita, verdetto Presente/Futuro/Costo e acquisto consigliato col volto.",
+      "avviso": "Per i volti serve un facepack in Documenti\\Sports Interactive\\Football Manager 26\\graphics: senza, la foto del gioco o le iniziali.",
       "icona": "<circle cx=\"12\" cy=\"9\" r=\"4\"/><path d=\"M4.5 20c1.2-3.8 4-5.5 7.5-5.5s6.3 1.7 7.5 5.5\"/>",
       "versione": "0.1.6",
       "file": "FMConfronto-0.1.6.zip",
@@ -391,7 +418,18 @@
       "dimensione": 45403,
       "sha256": "1cc59e4282efc1200173cfdc70b38bc9a03beca2618f3306137f191e8a991aca",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmconfronto.jpg?v=92507171f8",
-      "pubblicato": "2026-09-29"
+      "pubblicato": "2026-09-29",
+      "aggiornamenti": [
+        {
+          "versione": "0.1.6",
+          "testo": "radar e verdetto trovano posto anche con i giocatori di movimento, i giocatori \"Non in vendita\" contano come molto costosi, schermata più veloce"
+        },
+        {
+          "versione": "0.1.0",
+          "testo": "prima versione: numeri colorati, vincitore di ogni riga, radar, verdetto Presente/Futuro/Costo, data di nascita e acquisto consigliato"
+        }
+      ],
+      "tasto": "F9 accende/spegne"
     }
   ],
   "extra": [
