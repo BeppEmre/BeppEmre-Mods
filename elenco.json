@@ -271,13 +271,13 @@
       "descrizione": "I popup della partita (gol, cartellini, cambi, VAR) diventano pannelli di vetro nei colori della competizione, con il suo logo, uguali in tutti i campionati; in alto i gol in diretta dagli altri campi.",
       "avviso": "Il logo della competizione si prende dal tuo pacchetto loghi in Documenti\\Sports Interactive\\Football Manager 26\\graphics: senza, compare la sigla.",
       "pubblicato": "2026-10-02",
-      "tasto": "F8 accende/spegne",
+      "tasto": "F9 accende/spegne",
       "icona": "<path d=\"M12 3a9 9 0 1 0 0 18c1.4 0 2-1 2-2 0-1.4-1.2-1.6-1.2-3s1-2 2.4-2H18a3 3 0 0 0 3-3c0-4.4-4-8-9-8z\"/><circle cx=\"7.5\" cy=\"11\" r=\"1.1\"/><circle cx=\"10\" cy=\"7\" r=\"1.1\"/><circle cx=\"15\" cy=\"7.5\" r=\"1.1\"/>",
-      "versione": "0.3.8",
-      "file": "FMStilePopup-0.3.8.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStilePopup-0.3.8.zip",
-      "dimensione": 6540013,
-      "sha256": "d1596168a1956c976f985683d8fb54f1ef7cd5e370a39d7e8bb45f69ed28a89e"
+      "versione": "0.3.9",
+      "file": "FMStilePopup-0.3.9.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStilePopup-0.3.9.zip",
+      "dimensione": 6540115,
+      "sha256": "edb4a0e98ec6804d57bc3073d507548dcff571e6448f3d055b69c6f0cdcd4374"
     }
   ],
   "extra": [
