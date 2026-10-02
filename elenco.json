@@ -245,28 +245,14 @@
       "id": "fmvar",
       "nome": "VAR animato",
       "cartella": "FM - Plugin VAR ANIMATO",
-      "versione": "0.5.0",
-      "descrizione": "Quando in partita compare il riquadro del VAR, dietro le scritte l'arbitro animato fa il gesto giusto: richiamo al monitor, decisione confermata o annullata, a tempo con il popup. Funziona anche nei campionati con grafica TV su licenza.",
+      "versione": "0.6.3",
+      "descrizione": "Quando in partita compare il VAR, l'arbitro animato esce sopra il riquadro e fa il gesto giusto: richiamo al monitor, decisione confermata o annullata. Funziona in tutti i campionati.",
       "avviso": null,
-      "file": "FMVar-0.5.0.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVar-0.5.0.zip",
-      "dimensione": 28108664,
-      "sha256": "42ea8897750d854d2e04c844c4d7a6d67f80e4c9a6ed67712283a81bdf18aa3d",
-      "aggiornamenti": [
-        {
-          "versione": "0.5.0",
-          "testo": "funziona anche nei campionati con grafica TV su licenza (es. Bundesliga), \"niente rigore\" riconosciuto correttamente"
-        },
-        {
-          "versione": "0.4.0",
-          "testo": "animazioni nuove e più fluide, gesto a tempo con la durata di ogni popup"
-        },
-        {
-          "versione": "0.2.0",
-          "testo": "arbitro animato dietro il riquadro del VAR: richiamo, decisione confermata, decisione annullata"
-        }
-      ],
-      "pubblicato": "2026-09-25",
+      "file": "FMVar-0.6.3.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVar-0.6.3.zip",
+      "dimensione": 28110210,
+      "sha256": "55351381b920ccd47e660ef6dbde20c439efb0d41ee37aaf55a2db6a770af01e",
+      "pubblicato": "2026-10-02",
       "tasto": "N.C."
     },
     {
