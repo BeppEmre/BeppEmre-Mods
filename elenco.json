@@ -135,15 +135,15 @@
       "id": "fmvar",
       "nome": "VAR animato",
       "cartella": "FM - Plugin VAR ANIMATO",
-      "versione": "0.6.3",
+      "versione": "0.6.4",
       "descrizione": "Quando in partita compare il VAR, l'arbitro animato esce sopra il riquadro e fa il gesto giusto: richiamo al monitor, decisione confermata o annullata. Funziona in tutti i campionati.",
       "avviso": null,
-      "file": "FMVar-0.6.3.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVar-0.6.3.zip",
-      "dimensione": 28110210,
-      "sha256": "55351381b920ccd47e660ef6dbde20c439efb0d41ee37aaf55a2db6a770af01e",
+      "file": "FMVar-0.6.4.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVar-0.6.4.zip",
+      "dimensione": 28111294,
+      "sha256": "806abe0849c5c7ed127145216564ae26aa566be8cc2af3e53d0e819cc6d812f1",
       "pubblicato": "2026-10-02",
-      "tasto": "N.C."
+      "tasto": "F7 VAR di prova"
     },
     {
       "id": "fmvolti",
