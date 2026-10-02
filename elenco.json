@@ -389,31 +389,17 @@
       "id": "fmgoalpopup",
       "nome": "Popup Goals e cartellini",
       "cartella": "FM - Plugin GOAL POPUP",
-      "descrizione": "A ogni gol un popup animato con volto, numero e nome del marcatore e minuto (5 animazioni, mai la stessa due volte di fila); popup anche per ammonizioni, doppie ammonizioni ed espulsioni. Entra di lato senza coprire l'azione.",
+      "descrizione": "A ogni gol un popup animato con volto, numero, nome e minuto del marcatore; popup anche per gialli e rossi. Al recupero sale il quarto uomo con il cartello luminoso dei minuti.",
       "avviso": null,
       "icona": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7.5l3.8 2.8-1.5 4.4h-4.6l-1.5-4.4z\"/><path d=\"M12 3v4.5M20.4 9.6l-4.6.7M17.2 19.4l-2.9-4.7M6.8 19.4l2.9-4.7M3.6 9.6l4.6.7\"/>",
-      "versione": "0.4.2",
-      "file": "FMGoalPopup-0.4.2.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMGoalPopup-0.4.2.zip",
-      "dimensione": 99637820,
-      "sha256": "a70b1d869859e3442f4dd3e03538a9770fe030177a2cc1f35303947320222138",
+      "versione": "0.4.5",
+      "file": "FMGoalPopup-0.4.5.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMGoalPopup-0.4.5.zip",
+      "dimensione": 99640982,
+      "sha256": "4b540ca5f6227a0cfeecd1fee3b5b02c36c72d517cca745831291764e4a7cb71",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/7.jpg?v=2b6c07359f",
-      "aggiornamenti": [
-        {
-          "versione": "0.3.0",
-          "testo": "5 animazioni del gol, mai la stessa due volte di fila, volti trovati in più formati di facepack"
-        },
-        {
-          "versione": "0.2.0",
-          "testo": "popup per cartellini gialli e rossi, animazioni del gol alternate, volti anche per i giocatori generati"
-        },
-        {
-          "versione": "0.1.0",
-          "testo": "popup del gol, separato da Atmosfera stadio: più piccolo, entra da sinistra"
-        }
-      ],
       "pubblicato": "2026-09-28",
-      "tasto": "F3 prova gol · F4 prova cartellini"
+      "tasto": "F3 prova gol · F4 prova cartellini e recupero"
     },
     {
       "id": "fmcalendario",
