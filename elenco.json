@@ -275,47 +275,17 @@
       "id": "fmatmosfera",
       "nome": "Cori da stadio",
       "cartella": "FM - Plugin CORI DA STADIO",
-      "descrizione": "L'atmosfera dello stadio in partita, solo audio: inno della squadra di casa prima del calcio d'inizio (non nelle coppe europee), cori veri di 213 squadre dei cinque grandi campionati, boato al gol di casa e fischi a quello ospite.",
+      "descrizione": "L'audio dello stadio in partita: inno della squadra di casa prima del fischio d'inizio, cori veri di 213 squadre dei cinque grandi campionati, boato al gol di casa e fischi a quello ospite.",
       "avviso": "Pacchetto grande (circa 590 MB): controlla di avere spazio libero sul disco.",
       "icona": "<path d=\"M3.5 10v4h3l9 4.5v-13l-9 4.5z\"/><path d=\"M6.5 14l1.5 5h2.5l-1-4.2\"/><path d=\"M19 9.5a3.5 3.5 0 0 1 0 5\"/>",
-      "versione": "0.6.5",
-      "file": "FMAtmosfera-0.6.5.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMAtmosfera-0.6.5.zip",
-      "dimensione": 614050435,
-      "sha256": "251d3ac025f924e1cc79c6fc43426676237741127d6720abc93f93e069ea2d1b",
+      "versione": "0.6.6",
+      "file": "FMAtmosfera-0.6.6.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMAtmosfera-0.6.6.zip",
+      "dimensione": 614050716,
+      "sha256": "49304edd877c997838b2c8bb3981f170db02686695ab939734ff92bb4b8478b0",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmatmosfera.jpg?v=073c9b3f5c",
-      "aggiornamenti": [
-        {
-          "versione": "0.6.5",
-          "testo": "boato e fischi finiscono con il replay del gol, non coprono più l'azione dopo"
-        },
-        {
-          "versione": "0.6.4",
-          "testo": "boato e fischi solo ai gol veri, mai un secondo boato per lo stesso gol"
-        },
-        {
-          "versione": "0.6.3",
-          "testo": "il boato del gol parte subito, anche dopo una sfumata"
-        },
-        {
-          "versione": "0.6.0",
-          "testo": "diventa \"Cori da stadio\", solo audio (il popup del gol passa al plugin Goal popup), cori veri per 213 squadre dei cinque grandi campionati, niente inno di casa nelle coppe europee"
-        },
-        {
-          "versione": "0.4.0",
-          "testo": "scritta del gol spostata a sinistra con animazione"
-        },
-        {
-          "versione": "0.3.0",
-          "testo": "niente più audio durante i replay, stop dell'audio all'intervallo"
-        },
-        {
-          "versione": "0.2.1",
-          "testo": "nasce come \"Atmosfera stadio\": inni di casa, cori, boato e fischi al gol, scritta GOAL"
-        }
-      ],
       "pubblicato": "2026-09-28",
-      "tasto": "N.C."
+      "tasto": "F8 accende/spegne"
     },
     {
       "id": "fmgoalpopup",
