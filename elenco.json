@@ -133,14 +133,18 @@
       "id": "fmheatmap",
       "nome": "Heatmap",
       "cartella": "FM - Plugin HEATMAP",
-      "versione": "0.1",
+      "versione": "0.2.2",
       "descrizione": "In partita, nel riquadro Mappa passaggi, compare la vera mappa di calore della tua squadra: il plugin registra la posizione di ogni giocatore momento per momento e colora il campo dal giallo al rosso nelle zone più battute.",
       "avviso": null,
-      "file": "FMHeatmap-0.1.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMHeatmap-0.1.zip",
-      "dimensione": 17617,
-      "sha256": "8cb2f686fa6f27bcf0d586999c450a84ae37e5bfa8e0f5183ee547e37c9e0b90",
+      "file": "FMHeatmap-0.2.2.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMHeatmap-0.2.2.zip",
+      "dimensione": 18584,
+      "sha256": "b94d25ad4d0fe355c42407f9f8b35dae3fb6c73a7aaceb111e2ed741279f2737",
       "aggiornamenti": [
+        {
+          "versione": "0.2.2",
+          "testo": "meno lavoro per il gioco dopo le partite e memoria liberata"
+        },
         {
           "versione": "0.1",
           "testo": "prima versione: mappa di calore nel riquadro Mappa passaggi"
