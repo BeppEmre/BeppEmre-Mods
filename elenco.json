@@ -307,35 +307,17 @@
       "id": "fmcalendario",
       "nome": "Filtro calendario",
       "cartella": "FM - Plugin FILTRO CALENDARIO",
-      "descrizione": "Nel calendario di ogni club compaiono i pulsanti per vedere solo campionato, coppa nazionale, supercoppa, coppe europee, internazionali o amichevoli; ogni partita è colorata per competizione e una barra mostra come si divide la stagione.",
+      "descrizione": "Nel calendario di ogni club, pulsanti per vedere solo campionato, coppe, coppe europee o amichevoli, e ogni partita colorata in base alla sua competizione.",
       "avviso": null,
       "icona": "<circle cx=\"11\" cy=\"11\" r=\"6.5\"/><path d=\"M20 20l-4.3-4.3\"/>",
-      "versione": "0.2.2",
-      "file": "FMCalendario-0.2.2.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMCalendario-0.2.2.zip",
-      "dimensione": 247784,
-      "sha256": "e7461c0b06865ad2e1bd2cf577cf14d08830906f2f97f1cd07647a5b3f4efcb0",
+      "versione": "0.2.3",
+      "file": "FMCalendario-0.2.3.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMCalendario-0.2.3.zip",
+      "dimensione": 247900,
+      "sha256": "aa244f5eb21660239d9aa184c308a916eca94ca72b3bdce2bdd1d3b0f51e9738",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmcalendario.jpg?v=6c297acb41",
       "pubblicato": "2026-09-29",
-      "aggiornamenti": [
-        {
-          "versione": "0.2.2",
-          "testo": "filtri e colori del calendario compaiono quasi subito (prima anche diversi secondi)"
-        },
-        {
-          "versione": "0.1.6",
-          "testo": "corretta la chiusura del gioco della versione 0.1.3: si torna al funzionamento della prima versione stabile, con i pulsanti nuovi nello stile del gioco, più in alto e in grassetto"
-        },
-        {
-          "versione": "0.1.2",
-          "testo": "il tasto per accendere e spegnere ora è F5"
-        },
-        {
-          "versione": "0.1.0",
-          "testo": "prima versione: un filtro per ogni tipo di competizione, righe colorate e barra di ripartizione della stagione"
-        }
-      ],
-      "tasto": "F5 accende/spegne"
+      "tasto": "F3 accende/spegne"
     },
     {
       "id": "fmconfronto",
