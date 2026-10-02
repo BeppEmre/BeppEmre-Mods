@@ -93,37 +93,15 @@
       "id": "fmstadiums",
       "nome": "Immagine stadi",
       "cartella": "FM - Plugin IMMAGINE STADI",
-      "versione": "0.6.4",
-      "descrizione": "La foto vera dello stadio: nel sito della società in un riquadro con nome, città, capienza e anno di costruzione, dietro la partita selezionata nel calendario e nel riquadro del giorno partita. Foto di riserva per gli stadi senza immagine.",
-      "avviso": "Serve un pacchetto grafico degli stadi in Documenti\\Sports Interactive\\Football Manager 26\\graphics (per esempio nella cartella Stadi).",
-      "file": "FMStadiums-0.6.4.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStadiums-0.6.4.zip",
-      "dimensione": 2597324,
-      "sha256": "835fdaaa18e072e630c1d874f02c404c28b4e9e6b2baff88b91df46c04939683",
-      "aggiornamenti": [
-        {
-          "versione": "0.6.4",
-          "testo": "le foto degli stadi compaiono subito nel sito della società e nel calendario, i dati dello stadio arrivano senza scatti"
-        },
-        {
-          "versione": "0.6.3",
-          "testo": "foto più rapide e avvio più leggero, F7 ora spegne tutte le foto"
-        },
-        {
-          "versione": "0.6.2",
-          "testo": "il tasto per accendere e spegnere le foto ora è F7"
-        },
-        {
-          "versione": "0.6.0",
-          "testo": "nuovo riquadro nel sito della società con nome, città, capienza e anno di costruzione"
-        },
-        {
-          "versione": "0.5",
-          "testo": "foto dello stadio nel sito della società, nel calendario e in partita, foto di riserva per gli stadi senza immagine"
-        }
-      ],
+      "versione": "0.6.5",
+      "descrizione": "La foto vera dello stadio nel sito della società (con città, capienza e anno), nel calendario dietro la partita scelta e nel riquadro del giorno partita.",
+      "avviso": "Serve un pacchetto grafico degli stadi in Documenti\\Sports Interactive\\Football Manager 26\\graphics (per esempio nella cartella Stadi). Senza, vedrai le foto di riserva.",
+      "file": "FMStadiums-0.6.5.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStadiums-0.6.5.zip",
+      "dimensione": 2597686,
+      "sha256": "fbbee3a49dcf08e62e79a87d0a5a36e442b7138e2635c2252515153f24bc34c7",
       "pubblicato": "2026-09-25",
-      "tasto": "F7 accende/spegne"
+      "tasto": "F2 accende/spegne"
     },
     {
       "id": "fmboots",
