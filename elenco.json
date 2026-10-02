@@ -346,13 +346,25 @@
       "descrizione": "L'atmosfera dello stadio in partita, solo audio: inno della squadra di casa prima del calcio d'inizio (non nelle coppe europee), cori veri di 213 squadre dei cinque grandi campionati, boato al gol di casa e fischi a quello ospite.",
       "avviso": "Pacchetto grande (circa 590 MB): controlla di avere spazio libero sul disco.",
       "icona": "<path d=\"M3.5 10v4h3l9 4.5v-13l-9 4.5z\"/><path d=\"M6.5 14l1.5 5h2.5l-1-4.2\"/><path d=\"M19 9.5a3.5 3.5 0 0 1 0 5\"/>",
-      "versione": "0.6.2",
-      "file": "FMAtmosfera-0.6.2.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMAtmosfera-0.6.2.zip",
-      "dimensione": 614048924,
-      "sha256": "4dbe1a6d0b1f2023370623d407ab32a42b46678eb02a93950353a028168cc1a7",
+      "versione": "0.6.5",
+      "file": "FMAtmosfera-0.6.5.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMAtmosfera-0.6.5.zip",
+      "dimensione": 614050435,
+      "sha256": "251d3ac025f924e1cc79c6fc43426676237741127d6720abc93f93e069ea2d1b",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmatmosfera.jpg?v=073c9b3f5c",
       "aggiornamenti": [
+        {
+          "versione": "0.6.5",
+          "testo": "boato e fischi finiscono con il replay del gol, non coprono più l'azione dopo"
+        },
+        {
+          "versione": "0.6.4",
+          "testo": "boato e fischi solo ai gol veri, mai un secondo boato per lo stesso gol"
+        },
+        {
+          "versione": "0.6.3",
+          "testo": "il boato del gol parte subito, anche dopo una sfumata"
+        },
         {
           "versione": "0.6.0",
           "testo": "diventa \"Cori da stadio\", solo audio (il popup del gol passa al plugin Goal popup), cori veri per 213 squadre dei cinque grandi campionati, niente inno di casa nelle coppe europee"
