@@ -248,11 +248,11 @@
       "pubblicato": "2026-10-02",
       "tasto": "F9 accende/spegne",
       "icona": "<circle cx=\"9\" cy=\"8\" r=\"3\"/><circle cx=\"17\" cy=\"9\" r=\"2.4\"/><path d=\"M3 19c.8-3.5 3-5 6-5s5.2 1.5 6 5M15 14.2c2.8-.3 5 1.1 6 4.3\"/>",
-      "versione": "0.1.10",
-      "file": "FMMatchday-0.1.10.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMMatchday-0.1.10.zip",
-      "dimensione": 184807,
-      "sha256": "16101cbfdc32505d2c0e6208765e9fc464414b3f304c251df04a1c55301df50f"
+      "versione": "0.1.11",
+      "file": "FMMatchday-0.1.11.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMMatchday-0.1.11.zip",
+      "dimensione": 184086,
+      "sha256": "e297f76e64aab77a6e8e1f76ad29ec7ed789f2c72ef781da975caa59ec214857"
     },
     {
       "id": "fmstilepopup",
