@@ -37,33 +37,15 @@
       "id": "fmrings",
       "nome": "Anelli di condizione",
       "cartella": "FM - Plugin ANELLI DI CONDIZIONE",
-      "versione": "0.5.1",
-      "descrizione": "Nella rosa, in tattica e in partita condizione, forma e fatica diventano anelli colorati con il valore esatto al centro (da 50 a 100, la fatica come freschezza): verde se stanno bene, rosso se c'è da preoccuparsi, INF per gli infortunati.",
+      "versione": "0.5.2",
+      "descrizione": "Condizione, forma e fatica diventano anelli colorati con il valore al centro, nella rosa, in tattica e in partita: verde se va bene, rosso se c'è da preoccuparsi, INF per gli infortunati.",
       "avviso": null,
-      "file": "FMRings-0.5.1.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMRings-0.5.1.zip",
-      "dimensione": 21698,
-      "sha256": "758b2c8af450a5e2344b39f0eb3866cd6f998b277d55251aea6b09c976442542",
-      "aggiornamenti": [
-        {
-          "versione": "0.5.1",
-          "testo": "il tasto per accendere e spegnere gli anelli ora è F6"
-        },
-        {
-          "versione": "0.5.0",
-          "testo": "nuove scale: condizione e forma da 50 a 100, fatica come \"freschezza\" da 0 a 100, colori sfumati"
-        },
-        {
-          "versione": "0.4",
-          "testo": "anelli anche nella barra in partita e nella lista dei cambi, INF in rosso per gli infortunati, niente più anelli \"fantasma\" scorrendo la rosa"
-        },
-        {
-          "versione": "0.1",
-          "testo": "anelli colorati al posto delle icone di condizione, forma e fatica"
-        }
-      ],
+      "file": "FMRings-0.5.2.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMRings-0.5.2.zip",
+      "dimensione": 21837,
+      "sha256": "35b5d5a6919369d2bcb91e10395d9fd8acf343f27c04ff7a131f43e7f5039808",
       "pubblicato": "2026-09-25",
-      "tasto": "F6 accende/spegne"
+      "tasto": "F2 accende/spegne"
     },
     {
       "id": "fmflags",
