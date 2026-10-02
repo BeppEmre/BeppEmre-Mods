@@ -157,14 +157,22 @@
       "id": "fmstadiums",
       "nome": "Immagine stadi",
       "cartella": "FM - Plugin IMMAGINE STADI",
-      "versione": "0.6.2",
+      "versione": "0.6.4",
       "descrizione": "La foto vera dello stadio: nel sito della società in un riquadro con nome, città, capienza e anno di costruzione, dietro la partita selezionata nel calendario e nel riquadro del giorno partita. Foto di riserva per gli stadi senza immagine.",
       "avviso": "Serve un pacchetto grafico degli stadi in Documenti\\Sports Interactive\\Football Manager 26\\graphics (per esempio nella cartella Stadi).",
-      "file": "FMStadiums-0.6.2.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStadiums-0.6.2.zip",
-      "dimensione": 2594952,
-      "sha256": "62f566fd4ca4675671ab0ddefac2d70ad0325295378c4a1288471bfd49ec168d",
+      "file": "FMStadiums-0.6.4.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStadiums-0.6.4.zip",
+      "dimensione": 2597324,
+      "sha256": "835fdaaa18e072e630c1d874f02c404c28b4e9e6b2baff88b91df46c04939683",
       "aggiornamenti": [
+        {
+          "versione": "0.6.4",
+          "testo": "le foto degli stadi compaiono subito nel sito della società e nel calendario, i dati dello stadio arrivano senza scatti"
+        },
+        {
+          "versione": "0.6.3",
+          "testo": "foto più rapide e avvio più leggero, F7 ora spegne tutte le foto"
+        },
         {
           "versione": "0.6.2",
           "testo": "il tasto per accendere e spegnere le foto ora è F7"
