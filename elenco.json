@@ -65,37 +65,15 @@
       "id": "fmforma",
       "nome": "Forma (giocatore e classifica)",
       "cartella": "FM - Plugin FORMA (Giocatore e Classifica)",
-      "versione": "0.3.9",
-      "descrizione": "Le barrette della forma diventano 5 caselle con il voto vero delle ultime 5 partite, dal rosso al verde (S.V. in grigio se non ha giocato), nella rosa, nel profilo e nei rapporti. In classifica la forma delle squadre in quadratini V/N/P.",
+      "versione": "0.3.10",
+      "descrizione": "Al posto delle barrette della forma, i voti veri delle ultime 5 partite in caselle colorate (S.V. se non ha giocato), nella rosa e nel profilo; in classifica la forma delle squadre a quadratini V/N/P.",
       "avviso": null,
-      "file": "FMForma-0.3.9.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMForma-0.3.9.zip",
-      "dimensione": 27064,
-      "sha256": "ade59c2ded84affc63a5c1a64b18680f8fd949b36010223eda2f20a46c9dc2a2",
-      "aggiornamenti": [
-        {
-          "versione": "0.3.8",
-          "testo": "tolto il tasto F4 (si può rimettere un tasto nelle impostazioni del plugin)"
-        },
-        {
-          "versione": "0.3.7",
-          "testo": "il profilo mostra le stesse 5 partite del rapporto Forma"
-        },
-        {
-          "versione": "0.3.5",
-          "testo": "forma delle squadre in classifica a quadratini V/N/P"
-        },
-        {
-          "versione": "0.3.4",
-          "testo": "casella grigia \"S.V.\" per le partite non giocate, barre colorate nelle Valutazioni partita, voti medi colorati"
-        },
-        {
-          "versione": "0.1.0",
-          "testo": "voti delle ultime 5 partite in caselle colorate nella rosa e nel profilo"
-        }
-      ],
+      "file": "FMForma-0.3.10.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMForma-0.3.10.zip",
+      "dimensione": 27240,
+      "sha256": "9b9db6965cc2734662ddbb072bacad43580126681f6e8ae017b91746fcffc9d3",
       "pubblicato": "2026-09-25",
-      "tasto": "N.C."
+      "tasto": "F2 accende/spegne"
     },
     {
       "id": "fmheatmap",
