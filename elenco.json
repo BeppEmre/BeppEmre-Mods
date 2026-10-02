@@ -256,13 +256,13 @@
       "descrizione": "La partita come in TV: tabellone con i colori delle squadre e il logo della competizione, card Matchday (o del derby) prima del fischio d'inizio e formazioni ufficiali con i volti.",
       "avviso": "Per volti, loghi e foto dello stadio servono facepack, pacchetto loghi e pacchetto stadi in Documenti\\Sports Interactive\\Football Manager 26\\graphics.",
       "pubblicato": "2026-10-02",
-      "tasto": "N.C.",
+      "tasto": "F9 accende/spegne",
       "icona": "<circle cx=\"9\" cy=\"8\" r=\"3\"/><circle cx=\"17\" cy=\"9\" r=\"2.4\"/><path d=\"M3 19c.8-3.5 3-5 6-5s5.2 1.5 6 5M15 14.2c2.8-.3 5 1.1 6 4.3\"/>",
-      "versione": "0.1.9",
-      "file": "FMMatchday-0.1.9.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMMatchday-0.1.9.zip",
-      "dimensione": 184649,
-      "sha256": "1aa9657c5be3cb31be5cd43830e2734a3a4d9d2b655f3b426999e7fd5ed985c6"
+      "versione": "0.1.10",
+      "file": "FMMatchday-0.1.10.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMMatchday-0.1.10.zip",
+      "dimensione": 184807,
+      "sha256": "16101cbfdc32505d2c0e6208765e9fc464414b3f304c251df04a1c55301df50f"
     },
     {
       "id": "fmstilepopup",
