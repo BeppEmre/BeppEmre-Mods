@@ -107,27 +107,13 @@
       "id": "fmboots",
       "nome": "Logo piede destro e sinistro",
       "cartella": "FM - Plugin LOGO PIEDE DESTRO E SINISTRO",
-      "versione": "0.7.5",
-      "descrizione": "In tattica, ai lati delle stelle di ogni giocatore, due scarpette colorate indicano la qualità del piede sinistro e del destro: verde forte, giallo nella media, rosso debole. Si possono attivare anche negli schieramenti della partita.",
+      "versione": "0.7.6",
+      "descrizione": "In tattica, ai lati delle stelle di ogni giocatore, due scarpette colorate dicono quanto è buono il piede sinistro e il destro: verde forte, giallo medio, rosso debole.",
       "avviso": null,
-      "file": "FMBoots-0.7.5.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMBoots-0.7.5.zip",
-      "dimensione": 37761,
-      "sha256": "94505c5a6cd32529e46e400f75c6c82be1a3476f8f0888d730317dc5d7f914e3",
-      "aggiornamenti": [
-        {
-          "versione": "0.7.5",
-          "testo": "scarpette subito su tutta la formazione, F2 ora le spegne davvero"
-        },
-        {
-          "versione": "0.7.4",
-          "testo": "il tasto per accendere e spegnere le scarpette ora è F2"
-        },
-        {
-          "versione": "0.7.3",
-          "testo": "prima versione pubblicata: scarpette ai lati delle stelle in tattica, accendibili anche negli schieramenti della partita"
-        }
-      ],
+      "file": "FMBoots-0.7.6.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMBoots-0.7.6.zip",
+      "dimensione": 38030,
+      "sha256": "688b43195e4dba0062bf4ee8b284eb5719c9045da5ede190a99bdf8408b8a274",
       "pubblicato": "2026-09-25",
       "tasto": "F2 accende/spegne"
     },
