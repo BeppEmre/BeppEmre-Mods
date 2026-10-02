@@ -259,35 +259,13 @@
       "id": "fmvolti",
       "nome": "Volti (popup e allenatori)",
       "cartella": "FM - Plugin VOLTI (Popup e Allenatori)",
-      "versione": "0.2.2",
-      "descrizione": "Il volto del giocatore nei popup della partita (gol, assist, cartellini, cambi) e, nel pre-partita, i volti dei due allenatori con nome e percentuale di vittorie. Dall'app puoi caricare la tua foto come volto del tuo allenatore.",
-      "avviso": "Per i volti serve un facepack in Documenti\\Sports Interactive\\Football Manager 26\\graphics: senza, compaiono le iniziali. ManagerPortrait è facoltativo.",
-      "file": "FMVolti-0.2.2.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVolti-0.2.2.zip",
-      "dimensione": 46971,
-      "sha256": "569fe3a0ee68abaf19914a29a7b1b8cb5e5903a90daa6600842fd69eb65dc3b9",
-      "aggiornamenti": [
-        {
-          "versione": "0.2.2",
-          "testo": "spazio fisso per gli allenatori: i nomi di squadra lunghi si rimpiccioliscono o vanno a capo"
-        },
-        {
-          "versione": "0.2.1",
-          "testo": "volti più stabili e riconoscimento sicuro del tuo allenatore"
-        },
-        {
-          "versione": "0.2.0",
-          "testo": "la tua foto da allenatore, caricata dall'app, ovunque nel gioco"
-        },
-        {
-          "versione": "0.1.10",
-          "testo": "percentuale di vittorie in carriera degli allenatori"
-        },
-        {
-          "versione": "0.1.8",
-          "testo": "volti nei popup della partita e allenatori nel pre-partita, compatibile con ManagerPortrait"
-        }
-      ],
+      "versione": "0.2.4",
+      "descrizione": "Il volto del giocatore nei popup della partita (gol, assist, cartellini, cambi) e i volti dei due allenatori nel pre-partita. Dall'app puoi mettere la tua foto come volto del tuo allenatore.",
+      "avviso": "Per i volti serve un facepack in Documenti\\Sports Interactive\\Football Manager 26\\graphics: senza, compaiono le iniziali.",
+      "file": "FMVolti-0.2.4.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMVolti-0.2.4.zip",
+      "dimensione": 49706,
+      "sha256": "9a108c0b79ea3c2d7f278e4f869c4b4b49e27cfb759003139f0e63659dcb16a7",
       "pubblicato": "2026-09-25",
       "tasto": "N.C."
     },
