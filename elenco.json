@@ -121,25 +121,15 @@
       "id": "fmstoria",
       "nome": "Storia campionato",
       "cartella": "FM - Plugin STORIA CAMPIONATO",
-      "versione": "0.2.2",
-      "descrizione": "Nel sito della società la storia in campionato diventa un grafico a barre: una colonna per stagione, dal verde del primo posto al rosso delle ultime, stellina per i titoli e fasce con la sigla (SA, SB, C1A…) quando il club cambia categoria.",
+      "versione": "0.2.3",
+      "descrizione": "Nel sito della società la storia in campionato diventa un grafico a barre: una colonna per stagione, colori dal primo all'ultimo posto, stellina per i titoli e sigla della categoria.",
       "avviso": null,
-      "file": "FMStoria-0.2.2.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStoria-0.2.2.zip",
-      "dimensione": 18249,
-      "sha256": "9a6d4da826bfddb116838a5d55eab02705dd59540fdf500cb0add83054c39edc",
-      "aggiornamenti": [
-        {
-          "versione": "0.2.2",
-          "testo": "tolto il tasto F4: il grafico a barre resta sempre acceso (si può rimettere un tasto nelle impostazioni)"
-        },
-        {
-          "versione": "0.2.1",
-          "testo": "prima versione pubblicata: grafico a barre al posto della linea, con fasce e sigle (SA, SB, C1A…) quando il club ha cambiato campionato"
-        }
-      ],
+      "file": "FMStoria-0.2.3.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStoria-0.2.3.zip",
+      "dimensione": 18533,
+      "sha256": "04f3f0a639410acdc3c8ee85650e7634786687e1fd0588ed2abb735dfa581bdb",
       "pubblicato": "2026-09-25",
-      "tasto": "N.C."
+      "tasto": "F2 accende/spegne"
     },
     {
       "id": "fmvar",
