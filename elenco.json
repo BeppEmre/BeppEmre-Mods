@@ -413,17 +413,29 @@
       "id": "fmconfronto",
       "nome": "Confronto Giocatori",
       "cartella": "FM - Plugin CONFRONTO",
-      "descrizione": "Nel Confronto giocatori (scheda Qualità) i numeri si colorano per fascia, ogni riga evidenzia chi vince e di quanto, e compaiono radar a 6 aree, profilo dei due, età con data di nascita, verdetto Presente/Futuro/Costo e acquisto consigliato col volto.",
+      "descrizione": "Nel Confronto giocatori (scheda Qualità) ogni giocatore ha il suo colore, rosa o indaco a vetro: tondo su chi vince ogni attributo e di quanto, profilo del giocatore, data di nascita e differenza d'età, verdetto Presente/Futuro/Costo, radar a 6 aree e acquisto consigliato col volto.",
       "avviso": "Per i volti serve un facepack in Documenti\\Sports Interactive\\Football Manager 26\\graphics: senza, la foto del gioco o le iniziali.",
       "icona": "<circle cx=\"12\" cy=\"9\" r=\"4\"/><path d=\"M4.5 20c1.2-3.8 4-5.5 7.5-5.5s6.3 1.7 7.5 5.5\"/>",
-      "versione": "0.2.3",
-      "file": "FMConfronto-0.2.3.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMConfronto-0.2.3.zip",
-      "dimensione": 50747,
-      "sha256": "6d1841bf01e5e70492393083597425c095c419b229859fd491a0a9cdcca87028",
+      "versione": "0.2.5",
+      "file": "FMConfronto-0.2.5.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMConfronto-0.2.5.zip",
+      "dimensione": 52111,
+      "sha256": "4fe3f9b971dd02a4be35558333a3c8621519a0a210143ee322a9f060b3b7502e",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmconfronto.jpg?v=92507171f8",
       "pubblicato": "2026-09-29",
       "aggiornamenti": [
+        {
+          "versione": "0.2.5",
+          "testo": "il layout del Confronto compare subito all'apertura e quando cambi giocatore"
+        },
+        {
+          "versione": "0.2.4",
+          "testo": "i volti compaiono subito e i dati arrivano senza ritardo"
+        },
+        {
+          "versione": "0.2.3",
+          "testo": "grafica nuova: colori rosa e indaco con effetto vetro, tondi sui valori migliori, verdetto accanto alle schede, confronto attributi, radar e acquisto consigliato negli spazi vuoti, differenza d'età in giallo"
+        },
         {
           "versione": "0.1.6",
           "testo": "radar e verdetto trovano posto anche con i giocatori di movimento, i giocatori \"Non in vendita\" contano come molto costosi, schermata più veloce"
