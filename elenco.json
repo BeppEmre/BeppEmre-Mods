@@ -69,14 +69,18 @@
       "id": "fmflags",
       "nome": "Bandiera nazionalità",
       "cartella": "FM - Plugin BANDIERA NAZIONALITA'",
-      "versione": "0.2.2",
+      "versione": "0.2.3",
       "descrizione": "In partita, nella barra della rosa in basso, accanto al volto di ogni giocatore (anche degli avversari) compare la bandiera ufficiale della sua nazionalità. Dalle impostazioni si può attivare anche negli schieramenti.",
       "avviso": null,
-      "file": "FMFlags-0.2.2.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMFlags-0.2.2.zip",
-      "dimensione": 14240,
-      "sha256": "e4eed4e0802be95054e7db31d4d1b0a3dce948416d6a508149bdd6c27727d0b5",
+      "file": "FMFlags-0.2.3.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMFlags-0.2.3.zip",
+      "dimensione": 14635,
+      "sha256": "d179d3234b403cd859bb172c58cf853076f4ee26125365a46c6b02fbf7641632",
       "aggiornamenti": [
+        {
+          "versione": "0.2.3",
+          "testo": "le bandiere compaiono subito, tutte insieme"
+        },
         {
           "versione": "0.2.2",
           "testo": "tolto il tasto F2 (si può rimettere un tasto nelle impostazioni del plugin)"
