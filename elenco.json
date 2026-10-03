@@ -268,6 +268,21 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStilePopup-0.5.3.zip",
       "dimensione": 6548818,
       "sha256": "d2b2158fa3bc6e2a122eb32250e23eddee7429bc5dbd8fcaa9244ffe9c5d5869"
+    },
+    {
+      "id": "fmtelecamera",
+      "nome": "Telecamera libera",
+      "cartella": "FM - Plugin TELECAMERA LIBERA",
+      "descrizione": "In partita prendi tu la telecamera: la muovi dove vuoi sul campo e in tribuna, guardi o segui la palla e nascondi l'interfaccia per foto e video dei gol.",
+      "avviso": null,
+      "pubblicato": "2026-10-03",
+      "tasto": "F1 accende/spegne · G guida dei tasti",
+      "icona": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7.5l3.8 2.8-1.5 4.4h-4.6l-1.5-4.4z\"/><path d=\"M12 3v4.5M20.4 9.6l-4.6.7M17.2 19.4l-2.9-4.7M6.8 19.4l2.9-4.7M3.6 9.6l4.6.7\"/>",
+      "versione": "0.2.0",
+      "file": "FMTelecamera-0.2.0.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMTelecamera-0.2.0.zip",
+      "dimensione": 83909,
+      "sha256": "3482d4fb3883eee776cb53e9ebf7547dcfa173620199b0de5b18e7b8bd5391e9"
     }
   ],
   "extra": [
