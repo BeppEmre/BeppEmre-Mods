@@ -225,7 +225,7 @@
     },
     {
       "id": "fmconfronto",
-      "nome": "Confronto Giocatori",
+      "nome": "Confronto giocatori",
       "cartella": "FM - Plugin CONFRONTO",
       "descrizione": "Il Confronto giocatori diventa a colori: chi vince ogni attributo e di quanto, radar a 6 aree, età con data di nascita, verdetto Presente/Futuro/Costo e acquisto consigliato col volto.",
       "avviso": "Per i volti serve un facepack in Documenti\\Sports Interactive\\Football Manager 26\\graphics: senza, la foto del gioco o le iniziali.",
