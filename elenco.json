@@ -256,18 +256,18 @@
     },
     {
       "id": "fmstilepopup",
-      "nome": "Stile popup partita",
+      "nome": "Diretta goals",
       "cartella": "FM - Plugin STILE POPUP PARTITA",
       "descrizione": "I popup della partita (gol, cartellini, cambi, VAR) diventano pannelli di vetro nei colori della competizione, con il suo logo, uguali in tutti i campionati; in alto i gol in diretta dagli altri campi.",
       "avviso": "Il logo della competizione si prende dal tuo pacchetto loghi in Documenti\\Sports Interactive\\Football Manager 26\\graphics: senza, compare la sigla.",
       "pubblicato": "2026-10-02",
       "tasto": "F9 accende/spegne",
       "icona": "<path d=\"M12 3a9 9 0 1 0 0 18c1.4 0 2-1 2-2 0-1.4-1.2-1.6-1.2-3s1-2 2.4-2H18a3 3 0 0 0 3-3c0-4.4-4-8-9-8z\"/><circle cx=\"7.5\" cy=\"11\" r=\"1.1\"/><circle cx=\"10\" cy=\"7\" r=\"1.1\"/><circle cx=\"15\" cy=\"7.5\" r=\"1.1\"/>",
-      "versione": "0.3.10",
-      "file": "FMStilePopup-0.3.10.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStilePopup-0.3.10.zip",
-      "dimensione": 6526843,
-      "sha256": "ce65879ccf12ddb102b15058d1c0cde145ded32c89929f04a83c41ae17d8f205"
+      "versione": "0.4.10",
+      "file": "FMStilePopup-0.4.10.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStilePopup-0.4.10.zip",
+      "dimensione": 6547670,
+      "sha256": "cfc7ce94f09c3ba472c385f58facfbc225d1ab034625d51c52d820fc1cddd2fc"
     }
   ],
   "extra": [
