@@ -1,6 +1,6 @@
 {
   "formato": 1,
-  "aggiornato": "2026-10-03",
+  "aggiornato": "2026-10-04",
   "autore": "BeppEmre",
   "app": {
     "versione": "1.8.0",
@@ -214,11 +214,11 @@
       "descrizione": "Nel calendario di ogni club, pulsanti per vedere solo campionato, coppe, coppe europee o amichevoli, e ogni partita colorata in base alla sua competizione.",
       "avviso": null,
       "icona": "<circle cx=\"11\" cy=\"11\" r=\"6.5\"/><path d=\"M20 20l-4.3-4.3\"/>",
-      "versione": "0.2.3",
-      "file": "FMCalendario-0.2.3.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMCalendario-0.2.3.zip",
-      "dimensione": 247900,
-      "sha256": "aa244f5eb21660239d9aa184c308a916eca94ca72b3bdce2bdd1d3b0f51e9738",
+      "versione": "0.2.4",
+      "file": "FMCalendario-0.2.4.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMCalendario-0.2.4.zip",
+      "dimensione": 248329,
+      "sha256": "e6b5d901591c84b51b1151e5f25133e193f78af84d9ca714514b7d3266ff2fa3",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/fmcalendario.jpg?v=6c297acb41",
       "pubblicato": "2026-09-29",
       "tasto": "F3 accende/spegne"
