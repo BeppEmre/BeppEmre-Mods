@@ -243,16 +243,16 @@
       "id": "fmmatchday",
       "nome": "Pre-match e scoreboard",
       "cartella": "FM - Plugin MATCHDAY",
-      "descrizione": "La partita come in TV: tabellone con i colori delle squadre, card Matchday (o del derby) e formazioni ufficiali con modulo e volti.",
+      "descrizione": "La partita come in TV: tabellone con i colori delle squadre, card Matchday (o del derby) e formazioni ufficiali con modulo, volti e forma delle ultime 5 gare.",
       "avviso": "Per volti, loghi e foto dello stadio servono facepack, pacchetto loghi e pacchetto stadi in Documenti\\Sports Interactive\\Football Manager 26\\graphics.",
       "pubblicato": "2026-10-02",
       "tasto": "F9 accende/spegne",
       "icona": "<circle cx=\"9\" cy=\"8\" r=\"3\"/><circle cx=\"17\" cy=\"9\" r=\"2.4\"/><path d=\"M3 19c.8-3.5 3-5 6-5s5.2 1.5 6 5M15 14.2c2.8-.3 5 1.1 6 4.3\"/>",
-      "versione": "0.1.18",
-      "file": "FMMatchday-0.1.18.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMMatchday-0.1.18.zip",
-      "dimensione": 192469,
-      "sha256": "8bfb0c75f1c2bb8f0b04958ee9e973631910258fba4bbd7bb709f7255ce7eaac"
+      "versione": "0.1.20",
+      "file": "FMMatchday-0.1.20.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMMatchday-0.1.20.zip",
+      "dimensione": 202426,
+      "sha256": "4b6b8805f702c0159864cac91c2a6187cbe2cd708cac55cccb8e8c85cf7b4733"
     },
     {
       "id": "fmstilepopup",
