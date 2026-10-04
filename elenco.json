@@ -278,11 +278,11 @@
       "pubblicato": "2026-10-03",
       "tasto": "F1 accende/spegne · G guida dei tasti",
       "icona": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7.5l3.8 2.8-1.5 4.4h-4.6l-1.5-4.4z\"/><path d=\"M12 3v4.5M20.4 9.6l-4.6.7M17.2 19.4l-2.9-4.7M6.8 19.4l2.9-4.7M3.6 9.6l4.6.7\"/>",
-      "versione": "0.2.1",
-      "file": "FMTelecamera-0.2.1.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMTelecamera-0.2.1.zip",
-      "dimensione": 84993,
-      "sha256": "dbe251e966f9c81f9c343b2fa9a3740c891858793714f7e37777a5f7b66832b2"
+      "versione": "0.2.2",
+      "file": "FMTelecamera-0.2.2.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMTelecamera-0.2.2.zip",
+      "dimensione": 85332,
+      "sha256": "8767962b9391c76e4b8c3f042e58ab6b2be7f495e569ecc10f0f57eb6e23105a"
     }
   ],
   "extra": [
