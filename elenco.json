@@ -263,11 +263,11 @@
       "pubblicato": "2026-10-02",
       "tasto": "F9 accende/spegne",
       "icona": "<path d=\"M12 3a9 9 0 1 0 0 18c1.4 0 2-1 2-2 0-1.4-1.2-1.6-1.2-3s1-2 2.4-2H18a3 3 0 0 0 3-3c0-4.4-4-8-9-8z\"/><circle cx=\"7.5\" cy=\"11\" r=\"1.1\"/><circle cx=\"10\" cy=\"7\" r=\"1.1\"/><circle cx=\"15\" cy=\"7.5\" r=\"1.1\"/>",
-      "versione": "0.5.6",
-      "file": "FMStilePopup-0.5.6.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStilePopup-0.5.6.zip",
-      "dimensione": 6550856,
-      "sha256": "cd8f67e85625a9c1120ba39d7a0b4e9f433fff7eb7bea5765d581496c9c237d3"
+      "versione": "0.5.7",
+      "file": "FMStilePopup-0.5.7.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMStilePopup-0.5.7.zip",
+      "dimensione": 6551120,
+      "sha256": "557399e4339e266e35969ac6513f59cb453023c3708f826451ec73e6b321d436"
     },
     {
       "id": "fmtelecamera",
