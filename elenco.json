@@ -1,6 +1,6 @@
 {
   "formato": 1,
-  "aggiornato": "2026-10-04",
+  "aggiornato": "2026-10-05",
   "autore": "BeppEmre",
   "app": {
     "versione": "1.8.0",
@@ -51,13 +51,13 @@
       "id": "fmflags",
       "nome": "Bandiera nazionalità",
       "cartella": "FM - Plugin BANDIERA NAZIONALITA'",
-      "versione": "0.2.5",
+      "versione": "0.2.6",
       "descrizione": "In partita, nella barra della rosa, accanto al volto di ogni giocatore (anche avversario) compare la bandiera della sua nazionalità.",
       "avviso": null,
-      "file": "FMFlags-0.2.5.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMFlags-0.2.5.zip",
-      "dimensione": 14984,
-      "sha256": "eaafeac7a33615abab1e7e5ecc82378b1183ed9664fa4cab5ebfb03d45ef7a9e",
+      "file": "FMFlags-0.2.6.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMFlags-0.2.6.zip",
+      "dimensione": 15304,
+      "sha256": "ba906976cd397ff451a7bc699d5eb37160d397ef64c7fe8c8222bc1bf7a32693",
       "pubblicato": "2026-09-25",
       "tasto": "F2 accende/spegne"
     },
