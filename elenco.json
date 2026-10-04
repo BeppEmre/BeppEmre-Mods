@@ -51,13 +51,13 @@
       "id": "fmflags",
       "nome": "Bandiera nazionalità",
       "cartella": "FM - Plugin BANDIERA NAZIONALITA'",
-      "versione": "0.2.4",
+      "versione": "0.2.5",
       "descrizione": "In partita, nella barra della rosa, accanto al volto di ogni giocatore (anche avversario) compare la bandiera della sua nazionalità.",
       "avviso": null,
-      "file": "FMFlags-0.2.4.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMFlags-0.2.4.zip",
-      "dimensione": 14950,
-      "sha256": "ecfc72297dd36391dd1b2267a293bcfd08c3af749aea9356fa18b8ce93796a68",
+      "file": "FMFlags-0.2.5.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMFlags-0.2.5.zip",
+      "dimensione": 14984,
+      "sha256": "eaafeac7a33615abab1e7e5ecc82378b1183ed9664fa4cab5ebfb03d45ef7a9e",
       "pubblicato": "2026-09-25",
       "tasto": "F2 accende/spegne"
     },
@@ -301,7 +301,6 @@
   ],
   "ritirati": [
     {
-      "id": "fmatmosfera",
       "nome": "Atmosfera stadio",
       "cartella": "FM - Plugin ATMOSFERA STADIO",
       "quando": "2026-09-29"
