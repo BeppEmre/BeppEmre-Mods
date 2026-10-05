@@ -283,6 +283,21 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMTelecamera-0.2.2.zip",
       "dimensione": 85332,
       "sha256": "8767962b9391c76e4b8c3f042e58ab6b2be7f495e569ecc10f0f57eb6e23105a"
+    },
+    {
+      "id": "fmpaginafinanze",
+      "nome": "Bilancio e stipendi",
+      "cartella": "FM - Plugin Bilancio e Stipendi",
+      "descrizione": "La pagina Finanze della società ridisegnata: grafico del bilancio, contachilometri degli stipendi, ciambelle di incassi e spese, budget e debiti, anche nelle sottopagine e nel riquadro di Generale.",
+      "avviso": null,
+      "pubblicato": "2026-10-05",
+      "tasto": "F2 accende/spegne",
+      "icona": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M15.5 8.5A4 4 0 0 0 9 10.3v3.4a4 4 0 0 0 6.5 1.8M7 11h6M7 13.5h6\"/>",
+      "versione": "0.4.3",
+      "file": "FMPaginaFinanze-0.4.3.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMPaginaFinanze-0.4.3.zip",
+      "dimensione": 102056,
+      "sha256": "4bafccc75db33d6fe50fdd7662bc249a20a593371e78de70531260941a6af5d5"
     }
   ],
   "extra": [
