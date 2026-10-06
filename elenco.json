@@ -1,6 +1,6 @@
 {
   "formato": 1,
-  "aggiornato": "2026-10-05",
+  "aggiornato": "2026-10-06",
   "autore": "BeppEmre",
   "app": {
     "versione": "1.8.1",
@@ -198,11 +198,11 @@
       "descrizione": "A ogni gol un popup animato con volto, numero, nome e minuto del marcatore; popup anche per gialli e rossi. Al recupero sale il quarto uomo con il cartello luminoso dei minuti.",
       "avviso": null,
       "icona": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7.5l3.8 2.8-1.5 4.4h-4.6l-1.5-4.4z\"/><path d=\"M12 3v4.5M20.4 9.6l-4.6.7M17.2 19.4l-2.9-4.7M6.8 19.4l2.9-4.7M3.6 9.6l4.6.7\"/>",
-      "versione": "0.4.10",
-      "file": "FMGoalPopup-0.4.10.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMGoalPopup-0.4.10.zip",
-      "dimensione": 99642832,
-      "sha256": "6c4d9b89aee460dd3e291ab397ca90a01b32d75d77b67ea5ad6181ffa68181fb",
+      "versione": "0.4.11",
+      "file": "FMGoalPopup-0.4.11.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMGoalPopup-0.4.11.zip",
+      "dimensione": 99643058,
+      "sha256": "f2df38b11a9517c534d656ba6d3aac486405c9474a318e7994c0bd229e9f776d",
       "anteprima": "https://raw.githubusercontent.com/BeppEmre/BeppEmre-Mods/main/anteprime/7.jpg?v=2b6c07359f",
       "pubblicato": "2026-09-28",
       "tasto": "F5 prova gol · F6 prova cartellini e recupero"
