@@ -293,11 +293,11 @@
       "pubblicato": "2026-10-05",
       "tasto": "F2 accende/spegne",
       "icona": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M15.5 8.5A4 4 0 0 0 9 10.3v3.4a4 4 0 0 0 6.5 1.8M7 11h6M7 13.5h6\"/>",
-      "versione": "0.4.3",
-      "file": "FMPaginaFinanze-0.4.3.zip",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMPaginaFinanze-0.4.3.zip",
-      "dimensione": 102056,
-      "sha256": "4bafccc75db33d6fe50fdd7662bc249a20a593371e78de70531260941a6af5d5"
+      "versione": "0.5.0",
+      "file": "FMPaginaFinanze-0.5.0.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMPaginaFinanze-0.5.0.zip",
+      "dimensione": 1035148,
+      "sha256": "03a92ccd13fb842efb695a3c5afe706bd92a0b37a14d5ad64a7f2185f072be84"
     }
   ],
   "extra": [
