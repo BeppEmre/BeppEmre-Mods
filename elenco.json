@@ -298,6 +298,21 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMPaginaFinanze-0.5.0.zip",
       "dimensione": 1035148,
       "sha256": "03a92ccd13fb842efb695a3c5afe706bd92a0b37a14d5ad64a7f2185f072be84"
+    },
+    {
+      "id": "fmschermata",
+      "nome": "Schermata iniziale",
+      "cartella": "FM - Plugin SCHERMATA INIZIALE",
+      "descrizione": "La pagina iniziale del gioco con un nuovo sfondo e una scheda con l'ultimo video del canale YouTube Lucullus Games: si aggiorna da solo e cliccando la miniatura lo apri nel browser.",
+      "avviso": "Serve internet per vedere l'ultimo video uscito; senza, resta l'ultimo già scaricato.",
+      "pubblicato": "2026-10-06",
+      "tasto": "N.C.",
+      "icona": "<rect x=\"3\" y=\"5\" width=\"18\" height=\"12\" rx=\"2.5\"/><path d=\"M8 21h8M12 17v4\"/><path d=\"M10 9l4 2-4 2z\"/>",
+      "versione": "0.2.0",
+      "file": "FMSchermata-0.2.0.zip",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin/FMSchermata-0.2.0.zip",
+      "dimensione": 609343,
+      "sha256": "0457bd9cb7c6d69e7beec6b5ba05288b772d297dbabb74d884feeac72f13e2ca"
     }
   ],
   "extra": [
