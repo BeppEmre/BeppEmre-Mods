@@ -1,0 +1,117 @@
+{
+  "formato": 1,
+  "aggiornato": "2026-10-11",
+  "pacchetti": [
+    {
+      "id": "fmscout",
+      "nome": "FMScout",
+      "sitoNome": "fmscout.com",
+      "titolo": "FM26 Real Names Fix",
+      "versione": "09.03.2026",
+      "descrizione": "Leggero e mirato: aggiunge 2 file di nomi veri e toglie solo i file delle licenze finte.",
+      "punti": [
+        "Nomi veri di club, giocatori, allenatori e premi",
+        "Tocca solo 24 file del gioco, il resto resta originale",
+        "Funziona anche sulle carriere già iniziate"
+      ],
+      "nota": "I club brasiliani con il nome di tre lettere si correggono solo in una carriera nuova. Alcuni nomi possono sembrare sbagliati nella creazione della partita, ma sono giusti una volta iniziata.",
+      "sito": "https://www.fmscout.com",
+      "istruzioni": "https://www.fmscout.com/a-fm26-real-names-license-fix.html",
+      "db": [
+        "2600",
+        "2620"
+      ],
+      "cancellaCartelle": [],
+      "cancellaFile": [
+        "lnc/all/ac milan (wom).lnc",
+        "lnc/all/acc Inter unlic 24.lnc",
+        "lnc/all/acmilan unlic 24.lnc",
+        "lnc/all/atalanta u23 (men).lnc",
+        "lnc/all/fake.lnc",
+        "lnc/all/inter (wom).lnc",
+        "lnc/all/inter u23 (men).lnc",
+        "lnc/all/inter unlic 24.lnc",
+        "lnc/all/inter unlic 26.lnc",
+        "lnc/all/japanese names.lnc",
+        "lnc/all/lazio (wom).lnc",
+        "lnc/all/lic_dan_swe_fra.lnc",
+        "lnc/all/licensing club name_fm24.lnc",
+        "lnc/all/men lazio.lnc",
+        "lnc/all/men.atalanta.lnc",
+        "edt/permanent/fake.edt",
+        "dbc/permanent/1_japan_removed_clubs.dbc",
+        "dbc/permanent/brazil_kits.dbc",
+        "dbc/permanent/forbidden names.dbc",
+        "dbc/permanent/japan_fake.dbc",
+        "dbc/permanent/japan_unlicensed_random_names.dbc",
+        "dbc/permanent/j league non player.dbc",
+        "dbc/permanent/licensing26.dbc",
+        "dbc/permanent/language/Licensing2.dbc",
+        "dbc/permanent/language/Licensing2_chn.dbc"
+      ],
+      "copia": [
+        {
+          "da": "*.lnc",
+          "a": "lnc/all"
+        }
+      ],
+      "editorData": null,
+      "segni": [
+        "lnc/all/FM26 Fix by FMScout.lnc",
+        "lnc/all/FM26 Club Names by FMScout.lnc"
+      ],
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/nofake/fmscout-09.03.2026.zip",
+      "sha256": "76adbf4523d493949b60ddbc55d7194f2692df4c4c02bd37921685e4d7e1b810",
+      "contenuto": "21913f72214850b4bbbbac4bd0cf60eb15de3241107a5028a63ca87dd483b2a4"
+    },
+    {
+      "id": "sortitoutsi",
+      "nome": "Sortitoutsi",
+      "sitoNome": "sortitoutsi.net",
+      "titolo": "FM26 Real Name Fix",
+      "versione": "v6.0",
+      "descrizione": "Completo: sostituisce per intero le cartelle dbc, edt e lnc e aggiunge 4 file per l'editor.",
+      "punti": [
+        "Nomi veri di club, stadi, città, competizioni e premi",
+        "Rimpiazza tutte le regole di licenza del database",
+        "4 file \"editor data\" da spuntare a inizio carriera"
+      ],
+      "nota": "Quando inizi una nuova carriera, nella schermata del database apri i file dei dati dell'editor e spunta i 4 file Sortitoutsi. Con le carriere già iniziate alcuni nomi di club restano quelli vecchi.",
+      "sito": "https://sortitoutsi.net",
+      "istruzioni": "https://sortitoutsi.net/content/74677/fm26-real-name-fix-placeholder-thread",
+      "db": [
+        "2600",
+        "2620"
+      ],
+      "cancellaCartelle": [
+        "dbc",
+        "edt",
+        "lnc"
+      ],
+      "cancellaFile": [],
+      "copia": [
+        {
+          "da": "dbc",
+          "a": "dbc"
+        },
+        {
+          "da": "edt",
+          "a": "edt"
+        },
+        {
+          "da": "lnc",
+          "a": "lnc"
+        }
+      ],
+      "editorData": "editor data",
+      "segni": [
+        "lnc/Awards.lnc",
+        "lnc/City, Club and Stadium Names.lnc",
+        "lnc/Competitions and other Fixes.lnc"
+      ],
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/nofake/sortitoutsi-v6.0.zip",
+      "sha256": "3f0e2d657cacb426dabd38c99bed96b0716a6700708547bf71a1bf9e406f7c02",
+      "contenuto": "55589f7fd90303087644046dd804d6bc2aee24c334977e896114eba43e27a893"
+    }
+  ]
+}
