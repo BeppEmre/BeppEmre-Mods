@@ -1,0 +1,18 @@
+{
+  "plugin": [
+    {
+      "id": "plugin01",
+      "numero": 1,
+      "nome": "Carica il volto del tuo allenatore in game",
+      "cartella": "FM26 - Plugin 01 - Carica il volto del tuo allenatore in game",
+      "dll": "FM26-Plugin01-Volto.dll",
+      "gruppo": "",
+      "versione": "1.0.0",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin01-1.0.0.zip",
+      "sha256": "592f813c93cf607e437f1af87366fd1f861d7fa1466b66144bb776e09df3a7e3",
+      "dimensione": 20512,
+      "sha256_dll": "fbae26127adec4a13d3bc0b45dcd350a2af8dbbf0b61af6fea9af97529e97991"
+    }
+  ],
+  "aggiornato": "2026-10-11"
+}
