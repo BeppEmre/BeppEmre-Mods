@@ -203,11 +203,11 @@
     }
   ],
   "cartelloni": {
-    "nome": "Cartelloni Lucullus Games",
-    "versione": "2026.10.03",
-    "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/extra/lucullus-2026.10.03.bundle",
-    "sha256": "40397ba3546e0fb990e56765093c5dd30bfecf9beeb634ba18899e202db7ce43",
-    "dimensione": 109146175
+    "nome": "Banner Lucullus Games",
+    "versione": "2026.10.14",
+    "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/banner-lucullus-2026.10.14.bundle",
+    "sha256": "ba336e73c91d5fac141731cbad6de1a16570d6430ffe5fd94f0f23337de90b23",
+    "dimensione": 111053920
   },
-  "aggiornato": "2026-10-11"
+  "aggiornato": "2026-10-14"
 }
