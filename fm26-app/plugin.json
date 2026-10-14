@@ -344,9 +344,9 @@
       "pubblicato": "2026-10-14",
       "aggiornato": "2026-10-14",
       "sezione": "partita",
-      "descrizione": "Segui gli altri campi senza uscire dalla partita: quando si segna altrove compare il gol con i colori del club e, se cambia l'ordine, la classifica live in alto a destra. Facoltativo: si installa solo da questa scheda.",
+      "descrizione": "Segui gli altri campi senza uscire dalla partita: quando si segna altrove compare il gol con i colori del club e, se cambia l'ordine, la classifica live in alto a destra.",
       "tasto": "Ctrl+3",
-      "facoltativo": "si",
+      "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
         "plugins\\BeppEmre Mods\\FM - Plugin STILE POPUP PARTITA",
