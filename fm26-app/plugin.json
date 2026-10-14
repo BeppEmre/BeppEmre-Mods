@@ -11,8 +11,426 @@
       "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin01-1.0.0.zip",
       "sha256": "592f813c93cf607e437f1af87366fd1f861d7fa1466b66144bb776e09df3a7e3",
       "dimensione": 20512,
-      "sha256_dll": "fbae26127adec4a13d3bc0b45dcd350a2af8dbbf0b61af6fea9af97529e97991"
+      "sha256_dll": "fbae26127adec4a13d3bc0b45dcd350a2af8dbbf0b61af6fea9af97529e97991",
+      "sezione": "partita",
+      "descrizione": "",
+      "tasto": "",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [],
+      "conserva": [],
+      "anteprime": [],
+      "sha256_anteprime": [],
+      "pubblicato": "2026-10-14"
+    },
+    {
+      "id": "plugin02",
+      "numero": 2,
+      "nome": "Banner Youtube nella schermata iniziale",
+      "cartella": "FM26 - Plugin 02 - Banner Youtube nella schermata iniziale",
+      "dll": "FM26-Plugin02-YouTube.dll",
+      "gruppo": "",
+      "versione": "1.0.0",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin02-1.0.0.zip",
+      "sha256": "9f47ea7b656c01c4aff1f4c3e8d159e2607c9346533a310f0f7ded178936420f",
+      "dimensione": 79205,
+      "sha256_dll": "a3633f4fb5276453a999e83cbb2d2459ca569f9df928954f0b9cb4c85011051a",
+      "sha256_pacchetto": "",
+      "pubblicato": "2026-10-14",
+      "aggiornato": "2026-10-14",
+      "sezione": "menu",
+      "descrizione": "Nella schermata iniziale del gioco compare l'ultimo video del canale Lucullus Games: clicchi la miniatura e si apre su YouTube. Si aggiorna da solo a ogni video nuovo; senza internet semplicemente non appare.",
+      "tasto": "",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin SCHERMATA INIZIALE",
+        "config\\beppemre.fmschermata.cfg",
+        "config\\BeppEmre\\fmschermata"
+      ],
+      "conserva": [],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin02-anteprima-1-acf2799b.jpg"
+      ],
+      "sha256_anteprime": [
+        "acf2799b532fac456b4aa5b43ce72ceae9276e16a6847db84313068825fadd21"
+      ]
+    },
+    {
+      "id": "plugin03",
+      "numero": 3,
+      "nome": "Condizione e forma",
+      "cartella": "FM26 - Plugin 03 - Condizione e forma",
+      "dll": "FM26-Plugin03-CondizioneForma.dll",
+      "gruppo": "",
+      "versione": "1.1.0",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin03-1.1.0.zip",
+      "sha256": "4cc049a67ab8babc7a3403638e87036d041d47fb852280ee09d1f1885063c1cf",
+      "dimensione": 51128,
+      "sha256_dll": "b81624db6128bde39a9413bb38b6d81ac6e50138f8900624e9a6e39c36122ed9",
+      "sha256_pacchetto": "",
+      "pubblicato": "2026-10-14",
+      "aggiornato": "2026-10-14",
+      "sezione": "giocatori",
+      "descrizione": "Condizione, brillantezza e freschezza diventano anelli colorati, la forma diventa una fila di caselle con il voto vero di ogni partita e la media voto si colora. Lo vedi in rosa, profilo, rapporti e partita, con qualunque skin.",
+      "tasto": "",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin ANELLI DI CONDIZIONE",
+        "plugins\\BeppEmre Mods\\FM - Plugin FORMA (Giocatore e Classifica)",
+        "config\\beppemre.fmrings.cfg",
+        "config\\beppemre.fmforma.cfg",
+        "fmrings_struttura.txt",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmforma"
+      ],
+      "conserva": [],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin03-anteprima-1-81bdbf79.jpg"
+      ],
+      "sha256_anteprime": [
+        "81bdbf79284cd12d9a19b8691649514be74de4a98a641118902c8e6bb860651f"
+      ]
+    },
+    {
+      "id": "plugin04",
+      "numero": 4,
+      "nome": "Confronto giocatori",
+      "cartella": "FM26 - Plugin 04 - Confronto giocatori",
+      "dll": "FM26-Plugin04-Confronto.dll",
+      "gruppo": "",
+      "versione": "1.0.0",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin04-1.0.0.zip",
+      "sha256": "28f7231b96993ee97f9b44242497aef5b6a11958654b73aed911cf57864acc11",
+      "dimensione": 49480,
+      "sha256_dll": "3f511a7044ff03dfc0eca78430e1859fe2428e7cc0e3dc6350b67f13e92ffad6",
+      "sha256_pacchetto": "",
+      "pubblicato": "2026-10-14",
+      "aggiornato": "2026-10-14",
+      "sezione": "giocatori",
+      "descrizione": "Confronti due giocatori e capisci subito chi è meglio: chi vince ogni attributo e di quanto, il radar delle 6 aree, il verdetto su presente, futuro e costo e l'acquisto consigliato. In Rapporto giocatori > Confronto.",
+      "tasto": "",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin CONFRONTO",
+        "config\\beppemre.fmconfronto.cfg",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmconfronto"
+      ],
+      "conserva": [],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin04-anteprima-1-0dfbe0c3.jpg"
+      ],
+      "sha256_anteprime": [
+        "0dfbe0c36352ebd861aaf5a7e91b1498cdce99c93b4bb32c04d01c3ab086f0a6"
+      ]
+    },
+    {
+      "id": "plugin05",
+      "numero": 5,
+      "nome": "Stadio in società",
+      "cartella": "FM26 - Plugin 05 - Stadio in società",
+      "dll": "FM26-Plugin05-Stadio.dll",
+      "gruppo": "",
+      "versione": "1.0.3",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin05-1.0.3.zip",
+      "sha256": "b4a48f8426aaf519ffe0193c02ff45ca79d362626e36f463b86651553378b416",
+      "dimensione": 2615436,
+      "sha256_dll": "f48053d88a0909871ac3e426c17b43e4d16f133527f5e60039b10564798c7cde",
+      "sha256_pacchetto": "b3971e5c5966d6b6931527fe10e8700dd6c87c4bbdfe117651d8b2d5eda11b3b",
+      "pubblicato": "2026-10-14",
+      "aggiornato": "2026-10-14",
+      "sezione": "club",
+      "descrizione": "Lo stadio prende vita: la foto nella pagina della società e nel calendario e, in partita, un riquadro con foto, nome, spettatori e meteo. Riconosce lo stadio giusto anche con i nomi del tuo database.",
+      "tasto": "",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin IMMAGINE STADI",
+        "config\\beppemre.fmstadiums.cfg"
+      ],
+      "conserva": [
+        "stadi_alias.csv"
+      ],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin05-anteprima-1-d92334c2.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin05-anteprima-2-988f6f14.jpg"
+      ],
+      "sha256_anteprime": [
+        "d92334c2a584714ab06902fbfacfae8d69904391a05ee18c26acc27063135b96",
+        "988f6f14fe965ca7674209769867406fe70a7f89a1dd91ecdcd2bef832f33064"
+      ]
+    },
+    {
+      "id": "plugin06",
+      "numero": 6,
+      "nome": "Storia e finanze del club",
+      "cartella": "FM26 - Plugin 06 - Storia e finanze del club",
+      "dll": "FM26-Plugin06-Storia.dll",
+      "gruppo": "",
+      "versione": "1.3.0",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin06-1.3.0.zip",
+      "sha256": "7ed14fe32950e6de7133407db47401df484a32f321a50519a1a04f3235cc6456",
+      "dimensione": 59764,
+      "sha256_dll": "7dc3666e667d9e27459f78b4c2c19c5e47b0f286cc40bf144328d47e6899ebb4",
+      "sha256_pacchetto": "",
+      "pubblicato": "2026-10-14",
+      "aggiornato": "2026-10-14",
+      "sezione": "club",
+      "descrizione": "La storia del club a colpo d'occhio: ogni stagione è una barra colorata con posizione, divisione, scudetti, promozioni e retrocessioni. In Società > Finanze i conti diventano grafici chiari: incassi, spese, saldo, stipendi col tachimetro, debiti e budget.",
+      "tasto": "",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin STORIA CAMPIONATO",
+        "config\\beppemre.fmstoria.cfg",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmstoria",
+        "plugins\\BeppEmre Mods\\FM - Plugin Bilancio e Stipendi",
+        "config\\beppemre.fmpaginafinanze.cfg",
+        "config\\beppemre.fmpaginafinanze.sponsor.txt",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmpaginafinanze",
+        "plugins\\BeppEmre Mods\\FM - Grafiche Bilancio"
+      ],
+      "conserva": [],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin06-anteprima-1-131de71a.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin06-anteprima-2-2bfe4f04.jpg"
+      ],
+      "sha256_anteprime": [
+        "131de71a1f756c4a228819fc6045c8c7c4fdc5bee17f51541b795e4f6ff0e107",
+        "2bfe4f042b8f8f13a7eec66ee0dfa0942c9c51a4686594c88a87769151c37a5c"
+      ]
+    },
+    {
+      "id": "plugin07",
+      "numero": 7,
+      "nome": "Competizioni",
+      "cartella": "FM26 - Plugin 07 - Competizioni",
+      "dll": "FM26-Plugin07-Competizioni.dll",
+      "gruppo": "",
+      "versione": "1.0.1",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin07-1.0.1.zip",
+      "sha256": "4c554da33f66bc368875cd2af5133ab9a0a9f022043547116ad4378811c9760e",
+      "dimensione": 50827,
+      "sha256_dll": "08ea607422bbd9aa4aa2b8b6413ccb39d997f917ed421aaec73e0c75942218e8",
+      "sha256_pacchetto": "",
+      "pubblicato": "2026-10-14",
+      "aggiornato": "2026-10-14",
+      "sezione": "club",
+      "descrizione": "Nella pagina della competizione la forma delle squadre diventa a caselle V-N-P e arriva uno specchietto con il ritmo del tuo club, la proiezione dei punti a fine stagione, le statistiche del campionato e attacco contro difesa.",
+      "tasto": "",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin FORMA (Giocatore e Classifica)",
+        "config\\beppemre.fmforma.cfg",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmforma",
+        "plugins\\BeppEmre Mods\\FM - Plugin FINANZE CLUB",
+        "config\\beppemre.fmfinanze.cfg",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmfinanze"
+      ],
+      "conserva": [],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin07-anteprima-1-8baa7bb1.jpg"
+      ],
+      "sha256_anteprime": [
+        "8baa7bb170ab133e44259b99dc3de2c6c84aa98cccf5361d627d207c2b824aea"
+      ]
+    },
+    {
+      "id": "plugin08",
+      "numero": 8,
+      "nome": "Distinte e tabellone TV",
+      "cartella": "FM26 - Plugin 08 - Distinte e tabellone TV",
+      "dll": "FM26-Plugin08-Matchday.dll",
+      "gruppo": "",
+      "versione": "1.0.10",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-1.0.10.zip",
+      "sha256": "427bdc15c85ccb12876d5ed78704ca21f6886f0178fa800b2b69381609c167a9",
+      "dimensione": 46218792,
+      "sha256_dll": "105232d653a81fd622194f385309db18e371034f61a4ed3c24160cee3f5b24fa",
+      "sha256_pacchetto": "4111012d573a8251458f2c17c2bf4550aaae6b136341f5f83205b94022e30163",
+      "pubblicato": "2026-10-14",
+      "aggiornato": "2026-10-14",
+      "sezione": "partita",
+      "descrizione": "La partita come in TV: card del Matchday con stadio e spettatori, distinte di casa e ospiti con volti, modulo, panchina e allenatore, classifica prima del fischio e, in partita, il tabellone TV con i colori sociali e i minuti di recupero.",
+      "tasto": "",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin MATCHDAY",
+        "config\\beppemre.fmmatchday.cfg",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmmatchday"
+      ],
+      "conserva": [
+        "squadre.txt",
+        "sigle.txt",
+        "stadi_nomi.txt"
+      ],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-1-502390e4.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-2-4e9591ea.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-3-0c7aafc3.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-4-d23524db.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-5-f19ee829.jpg"
+      ],
+      "sha256_anteprime": [
+        "502390e41e40d7945058fd595c3a63104382fabf71b0043213fc956034ad7187",
+        "4e9591eafb01e6983994c40b1bb719f6b0422a9f2ee29810274e69198325f676",
+        "0c7aafc308da7982190ebbac9ce9d11785ffd749bea28be53c53287b78842335",
+        "d23524dbb1e6bde7c747156b1771e61bf058bc5d3e72a04d2cef1bd67753a363",
+        "f19ee8291278a991335574ffbabf0322a1ecef82cf31b60fe15f5a89f2ca2b0e"
+      ]
+    },
+    {
+      "id": "plugin09",
+      "numero": 9,
+      "nome": "Popup gol, cartellini e VAR",
+      "cartella": "FM26 - Plugin 09 - Popup gol, cartellini e VAR",
+      "dll": "FM26-Plugin09-Popup.dll",
+      "gruppo": "",
+      "versione": "1.0.1",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-1.0.1.zip",
+      "sha256": "e099c431595b97d2d8d2602bbe0a74ac23c32410a2d8a89da6c47b5e69305d06",
+      "dimensione": 40835725,
+      "sha256_dll": "bf1e205271de12e78b0e0725dc530f8b656ec24049eeaae4fb0a05114575673b",
+      "sha256_pacchetto": "48f6d2526d0af8e4a49e1eb3a04ac341686d576c84c544b5bfa0e17697e42f68",
+      "pubblicato": "2026-10-14",
+      "aggiornato": "2026-10-14",
+      "sezione": "partita",
+      "descrizione": "Ogni momento della partita ha il suo popup in stile TV: gol con animazione, volto, assist e risultato, autogol e gol annullati, cartellini gialli e rossi, cambi, VAR con l'arbitro animato e il quarto uomo con i minuti di recupero.",
+      "tasto": "",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin GOAL POPUP",
+        "config\\beppemre.fmgoalpopup.cfg",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmgoalpopup",
+        "plugins\\BeppEmre Mods\\FM - Plugin STILE POPUP PARTITA",
+        "config\\beppemre.fmstilepopup.cfg",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmstilepopup",
+        "plugins\\BeppEmre Mods\\FM - Plugin VAR ANIMATO",
+        "config\\beppemre.fmvar.cfg",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmvar",
+        "plugins\\BeppEmre Mods\\FM - Plugin VOLTI (Popup e Allenatori)",
+        "config\\beppemre.fmvolti.cfg",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmvolti"
+      ],
+      "conserva": [],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-1-2ab5c53f.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-2-8b222486.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-3-39aa5192.jpg"
+      ],
+      "sha256_anteprime": [
+        "2ab5c53fc4d6b8de0e613088aab8f38f5db8c1df28855177a916d6c9d1a2f7ed",
+        "8b22248648c68336e3e9913b7b5fabf7942df3d958b898a01457d7424dce4450",
+        "39aa5192990e565528779d9d71105ec78fa22c38ca689e77c473a7d501a0478f"
+      ]
+    },
+    {
+      "id": "plugin10",
+      "numero": 10,
+      "nome": "Diretta gol",
+      "cartella": "FM26 - Plugin 10 - Diretta gol",
+      "dll": "FM26-Plugin10-Diretta.dll",
+      "gruppo": "",
+      "versione": "1.0.1",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin10-1.0.1.zip",
+      "sha256": "6dd446646fcb2ed8282896d8bf5bc3f6f28fbf138653c77a10b441595001ab27",
+      "dimensione": 125717,
+      "sha256_dll": "26c4bd1d0792d0a9101c4a6a1e2d12b02f22cdc8d7181d567d0772a4e23a5672",
+      "sha256_pacchetto": "e3eeefca39b0cde8bdcca3b7ee4870c6fc32e0406eb46d65f6212e09aff9505e",
+      "pubblicato": "2026-10-14",
+      "aggiornato": "2026-10-14",
+      "sezione": "partita",
+      "descrizione": "Segui gli altri campi senza uscire dalla partita: quando si segna altrove compare il gol con i colori del club e, se cambia l'ordine, la classifica live in alto a destra. Facoltativo: si installa solo da questa scheda.",
+      "tasto": "",
+      "facoltativo": "si",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin STILE POPUP PARTITA",
+        "config\\beppemre.fmstilepopup.cfg",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmstilepopup"
+      ],
+      "conserva": [],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin10-anteprima-1-eee40e4b.jpg"
+      ],
+      "sha256_anteprime": [
+        "eee40e4becf87bf3ac866f21e7653d77d83f7cf21a4b08e5851cb0bcb7f9626a"
+      ]
+    },
+    {
+      "id": "plugin11",
+      "numero": 11,
+      "nome": "Inni ed esultanze",
+      "cartella": "FM26 - Plugin 11 - Inni ed esultanze",
+      "dll": "FM26-Plugin11-Inni.dll",
+      "gruppo": "",
+      "versione": "1.0.0",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26-inni/plugin11-1.0.0.zip",
+      "sha256": "27751ebec6bf6a1b66bd9700d30487a81959319aef6923312a75efe6bd232b35",
+      "dimensione": 207736876,
+      "sha256_dll": "48d03b108181e44920940dc0a9b8b726b7b8dea2d1b394d9fa9ba17c45e17002",
+      "sha256_pacchetto": "f03a8fa46cb34906a53d557a780c130581aa2cdd65534763483387c3344bd9b5",
+      "pubblicato": "2026-10-14",
+      "aggiornato": "2026-10-14",
+      "sezione": "partita",
+      "descrizione": "Lo stadio si fa sentire: l'inno della squadra di casa prima del calcio d'inizio (oltre 150 club, e puoi aggiungere i tuoi), il boato sui gol di casa, i fischi su quelli degli ospiti e il fischietto dell'arbitro a inizio, intervallo e fine.",
+      "tasto": "",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin CORI DA STADIO",
+        "plugins\\BeppEmre Mods\\FM - Plugin ATMOSFERA STADIO",
+        "config\\beppemre.fmatmosfera.cfg",
+        "plugins\\BeppEmre Mods\\Diagnostica\\fmatmosfera"
+      ],
+      "conserva": [
+        "audio\\Inni\\elenco.txt"
+      ],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin11-anteprima-1-090e288a.jpg"
+      ],
+      "sha256_anteprime": [
+        "090e288a1426125fb534da019b088ff18c121dbb08a091163cf1fa3871dec210"
+      ]
+    },
+    {
+      "id": "plugin12",
+      "numero": 12,
+      "nome": "Heatmap",
+      "cartella": "FM26 - Plugin 12 - Heatmap",
+      "dll": "FM26-Plugin12-Heatmap.dll",
+      "gruppo": "",
+      "versione": "1.0.0",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin12-1.0.0.zip",
+      "sha256": "ff369b74d82a729643a89112a68f5339aea8b699d2d019a616a11b9243bdd67e",
+      "dimensione": 120235,
+      "sha256_dll": "0b00a28a20c478d4d1b379457ef9b0c52b84eb89838a22e9576c6be249b6d6d3",
+      "sha256_pacchetto": "",
+      "pubblicato": "2026-10-14",
+      "aggiornato": "2026-10-14",
+      "sezione": "partita",
+      "descrizione": "Le mappe passaggi diventano una heatmap vera, costruita dai movimenti dei giocatori: dove ha giocato la squadra, km percorsi, corsie e zone più usate, chi ha corso di più, velocità massima e scatti, anche del singolo giocatore.",
+      "tasto": "",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin HEATMAP",
+        "config\\beppemre.fmheatmap.cfg"
+      ],
+      "conserva": [],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin12-anteprima-1-e28c63bf.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin12-anteprima-2-7dd67b97.jpg"
+      ],
+      "sha256_anteprime": [
+        "e28c63bf2679ae1dfe9a50b1eb6888def301c80ef248932f62b462e8d20715e2",
+        "7dd67b9787c0050cc14eabbc398cd2469b075fd69d71e44158b489ebd58733ca"
+      ]
     }
   ],
-  "aggiornato": "2026-10-11"
+  "aggiornato": "2026-10-14"
 }
