@@ -430,7 +430,39 @@
         "e28c63bf2679ae1dfe9a50b1eb6888def301c80ef248932f62b462e8d20715e2",
         "7dd67b9787c0050cc14eabbc398cd2469b075fd69d71e44158b489ebd58733ca"
       ]
+    },
+    {
+      "id": "plugin13",
+      "numero": 13,
+      "nome": "Filtro incontri",
+      "cartella": "FM26 - Plugin 13 - Filtro incontri",
+      "dll": "FM26-Plugin13-Incontri.dll",
+      "gruppo": "",
+      "versione": "1.0.0",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin13-1.0.0.zip",
+      "sha256": "5ed5e6d5a0bc22c4f04da46176c9ce113c859eae7b687e40acd731a02d991e79",
+      "dimensione": 62674,
+      "sha256_dll": "4d47cc37270e9a8480e370f4098eee5b355816e540514fd4a70a7758d8c83908",
+      "sha256_pacchetto": "",
+      "pubblicato": "2026-10-15",
+      "aggiornato": "2026-10-15",
+      "sezione": "club",
+      "descrizione": "In Calendario > Incontri, pillole per competizione con il numero di partite (campionato, coppe europee, coppe nazionali, supercoppe, Mondiale per club, amichevoli) che mostrano solo le partite scelte, piu' i filtri Casa/Trasferta e Da giocare/Giocate. La tabella del gioco resta intatta: il filtro si azzera quando lasci la pagina.",
+      "tasto": "Ctrl+1",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [
+        "plugins\\BeppEmre Mods\\FM - Plugin FILTRO CALENDARIO",
+        "config\\beppemre.fmcalendario.cfg"
+      ],
+      "conserva": [],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin13-anteprima-1-a9842255.jpg"
+      ],
+      "sha256_anteprime": [
+        "a984225542943d2d0e70867dc04ad6018ad2ef4251529145f386f18e2de86743"
+      ]
     }
   ],
-  "aggiornato": "2026-10-14"
+  "aggiornato": "2026-10-15"
 }
