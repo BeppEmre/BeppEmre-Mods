@@ -40,7 +40,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "menu",
       "descrizione": "Nella schermata iniziale del gioco compare l'ultimo video del canale Lucullus Games: clicchi la miniatura e si apre su YouTube. Si aggiorna da solo a ogni video nuovo; senza internet semplicemente non appare.",
-      "tasto": "Ctrl+1",
+      "tasto": "",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -73,7 +73,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "giocatori",
       "descrizione": "Condizione, brillantezza e freschezza diventano anelli colorati, la forma diventa una fila di caselle con il voto vero di ogni partita, la media voto si colora e il morale si vede grande come gli anelli. Lo vedi in rosa, profilo, rapporti e partita, con qualunque skin.",
-      "tasto": "Ctrl+1",
+      "tasto": "F1",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -109,7 +109,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "giocatori",
       "descrizione": "Confronti due giocatori e capisci subito chi è meglio: chi vince ogni attributo e di quanto, il radar delle 6 aree, il verdetto su presente, futuro e costo e l'acquisto consigliato. In Rapporto giocatori > Confronto.",
-      "tasto": "Ctrl+1",
+      "tasto": "F1",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -142,7 +142,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "club",
       "descrizione": "Lo stadio prende vita: la foto nella pagina della società e nel calendario e, in partita, un riquadro con foto, nome, spettatori e meteo. Riconosce lo stadio giusto anche con i nomi del tuo database.",
-      "tasto": "Ctrl+1",
+      "tasto": "F2",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -178,7 +178,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "club",
       "descrizione": "La storia del club a colpo d'occhio: le ultime 10 stagioni come barre colorate con posizione, divisione, scudetti, promozioni e retrocessioni. In Società > Finanze i conti diventano grafici chiari: incassi, spese, saldo, stipendi col tachimetro, debiti, budget e autonomia di cassa.",
-      "tasto": "Ctrl+1",
+      "tasto": "F2",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -218,7 +218,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "club",
       "descrizione": "Nella pagina della competizione la forma delle squadre diventa a caselle V-N-P e arriva uno specchietto con il ritmo del tuo club, la proiezione dei punti a fine stagione, le statistiche del campionato e attacco contro difesa.",
-      "tasto": "Ctrl+1",
+      "tasto": "F2",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -254,7 +254,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "partita",
       "descrizione": "La partita come in TV: card del Matchday con stadio e spettatori, distinte di casa e ospiti con volti, modulo, panchina e allenatore, classifica prima del fischio e, in partita, il tabellone TV con stemmi, colori sociali e minuti di recupero, anche all'intervallo e a fine gara al posto di quello del gioco.",
-      "tasto": "Ctrl+2",
+      "tasto": "F3",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -299,7 +299,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "partita",
       "descrizione": "Ogni momento della partita ha il suo popup in stile TV: gol con animazione, volto, assist e risultato, autogol e gol annullati, cartellini gialli e rossi, cambi, VAR con l'arbitro animato e il quarto uomo con i minuti di recupero.",
-      "tasto": "Ctrl+3",
+      "tasto": "F4",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -353,7 +353,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "partita",
       "descrizione": "Segui gli altri campi senza uscire dalla partita: quando si segna altrove compare il gol con i colori del club e, se cambia l'ordine, la classifica live in alto a destra.",
-      "tasto": "Ctrl+3",
+      "tasto": "F4",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -386,7 +386,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "partita",
       "descrizione": "Lo stadio si fa sentire: l'inno della squadra di casa prima del calcio d'inizio (oltre 150 club, e puoi aggiungere i tuoi), il boato sui gol di casa, i fischi su quelli degli ospiti e il fischietto dell'arbitro a inizio, intervallo e fine.",
-      "tasto": "Ctrl+4",
+      "tasto": "F5",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -422,7 +422,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "partita",
       "descrizione": "La mappa di calore vera, dai movimenti dei giocatori in partita, sopra le mappe passaggi del gioco: nel riepilogo scegli uno o più giocatori con le loro maglie (sempre gli 11 in campo) e la heatmap cambia subito; nella finestra della mappa una scheda TV con km percorsi, corsie, zone, chi ha corso di più, velocità massima e scatti, della squadra o dei giocatori scelti.",
-      "tasto": "Ctrl+2",
+      "tasto": "F3",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -458,7 +458,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "club",
       "descrizione": "In Calendario > Incontri, pillole per competizione con il numero di partite (campionato, coppe europee, coppe nazionali, supercoppe, Mondiale per club, amichevoli) che mostrano solo le partite scelte, piu' i filtri Casa/Trasferta e Da giocare/Giocate. Sopra le pillole una riga piccola di statistiche: partite giocate, vittorie-pareggi-sconfitte, percentuale di vittorie con barretta colorata, gol fatti e subiti. La tabella del gioco resta intatta: il filtro si azzera quando lasci la pagina.",
-      "tasto": "Ctrl+1",
+      "tasto": "F2",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [
@@ -490,7 +490,7 @@
       "aggiornato": "2026-10-17",
       "sezione": "club",
       "descrizione": "Gli attributi dello staff scritti a parole (Top class, Eccellente, Valido...) diventano il numero vero da 1 a 20, colorato come per i giocatori, anche nelle tabelle dello staff.",
-      "tasto": "Ctrl+1",
+      "tasto": "F1",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [],
