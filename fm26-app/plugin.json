@@ -153,12 +153,12 @@
         "stadi_alias.csv"
       ],
       "anteprime": [
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin05-anteprima-1-d92334c2.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin05-anteprima-2-988f6f14.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin05-anteprima-1-58bbd01f.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin05-anteprima-2-4bc550a5.jpg"
       ],
       "sha256_anteprime": [
-        "d92334c2a584714ab06902fbfacfae8d69904391a05ee18c26acc27063135b96",
-        "988f6f14fe965ca7674209769867406fe70a7f89a1dd91ecdcd2bef832f33064"
+        "58bbd01f462d6fa80773458bc69d068366d3c95707af0c42e733bc710de9a87e",
+        "4bc550a5af92ee6ac8eecf9a8569ab3abcab2f8279f80ae938592c5ef71390a1"
       ]
     },
     {
@@ -268,18 +268,18 @@
         "stadi_nomi.txt"
       ],
       "anteprime": [
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-1-502390e4.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-2-4e9591ea.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-3-0c7aafc3.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-4-d23524db.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-5-f19ee829.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-1-bd1db7f9.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-2-3acdd8ff.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-3-c7a06c68.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-4-5241a731.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-5-f7dd9ddd.jpg"
       ],
       "sha256_anteprime": [
-        "502390e41e40d7945058fd595c3a63104382fabf71b0043213fc956034ad7187",
-        "4e9591eafb01e6983994c40b1bb719f6b0422a9f2ee29810274e69198325f676",
-        "0c7aafc308da7982190ebbac9ce9d11785ffd749bea28be53c53287b78842335",
-        "d23524dbb1e6bde7c747156b1771e61bf058bc5d3e72a04d2cef1bd67753a363",
-        "f19ee8291278a991335574ffbabf0322a1ecef82cf31b60fe15f5a89f2ca2b0e"
+        "bd1db7f9d00973bdf0690f50d94e1933637b3ed811c9c5ea6833732ea9d862e7",
+        "3acdd8fff5d95ce617168272608199d47966c9c87f8c180aaa869c0a55bd15a4",
+        "c7a06c68f60c68b4d23b49641496aade11a2986a2815bb589c86dca69c7f6cda",
+        "5241a7315f62f159e0bb060d03a2e6ad6527f36d1005a32e2c29c6bb35ba08b4",
+        "f7dd9ddd315f619e825e661d2cedf6a650ed341fb08f422de8f3f7040d9329f1"
       ]
     },
     {
@@ -318,13 +318,21 @@
       ],
       "conserva": [],
       "anteprime": [
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-1-2ab5c53f.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-2-8b222486.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-3-39aa5192.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-1-12c449e9.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-2-be3da515.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-3-6c14bf41.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-4-4922646f.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-5-e27033d2.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-6-5fe5696c.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-7-39aa5192.jpg"
       ],
       "sha256_anteprime": [
-        "2ab5c53fc4d6b8de0e613088aab8f38f5db8c1df28855177a916d6c9d1a2f7ed",
-        "8b22248648c68336e3e9913b7b5fabf7942df3d958b898a01457d7424dce4450",
+        "12c449e957eb88a970822c2b8d7d07d00dc659c09dffa0535107d1a4ba990fec",
+        "be3da515d3f3163c5746801d5451b5ea130e15a07ffd20d81c210fde58f78c7b",
+        "6c14bf41eb95e4f9051bb37dee7b486d6c0ab3988be27ecdbaa0caf02b1a8eda",
+        "4922646f9a6861b39e2a9774860083cb7424384fa30e56fadae61e3a157f749b",
+        "e27033d2c31e882b84b3a34911f3bfbb72f6cae2139a4bffb56d229938f9c5ca",
+        "5fe5696cf0d7698636f4ab8da7049f55ea0c6b2d001405e0268ee0be9b235dbd",
         "39aa5192990e565528779d9d71105ec78fa22c38ca689e77c473a7d501a0478f"
       ]
     },
@@ -423,12 +431,14 @@
       ],
       "conserva": [],
       "anteprime": [
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin12-anteprima-1-e28c63bf.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin12-anteprima-2-7dd67b97.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin12-anteprima-1-3e358d7c.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin12-anteprima-2-975c8897.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin12-anteprima-3-098d9fc4.jpg"
       ],
       "sha256_anteprime": [
-        "e28c63bf2679ae1dfe9a50b1eb6888def301c80ef248932f62b462e8d20715e2",
-        "7dd67b9787c0050cc14eabbc398cd2469b075fd69d71e44158b489ebd58733ca"
+        "3e358d7c735ee3e985ce3555bda937bd0bc1ef73755d9c4d2f08ad34aecf7d36",
+        "975c8897d5e2d96cae37a566470cea2944370fc9d788675cc47e2153105de7c6",
+        "098d9fc4845441b4a691f56c5215c0ef3603e1b8484703635fa4baf1c0e7d276"
       ]
     },
     {
@@ -457,10 +467,10 @@
       ],
       "conserva": [],
       "anteprime": [
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin13-anteprima-1-a9842255.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin13-anteprima-1-2d35ef4d.jpg"
       ],
       "sha256_anteprime": [
-        "a984225542943d2d0e70867dc04ad6018ad2ef4251529145f386f18e2de86743"
+        "2d35ef4dcf16782e7980cd934fbfb40dda9fa4061020a2f01ec23b323141f322"
       ]
     },
     {
@@ -485,8 +495,14 @@
       "nascosto": "",
       "sostituisce": [],
       "conserva": [],
-      "anteprime": [],
-      "sha256_anteprime": []
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin14-anteprima-1-cdb2d577.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin14-anteprima-2-6886a41f.jpg"
+      ],
+      "sha256_anteprime": [
+        "cdb2d5779200a93207430bfe143dc532e96c48a2179f0514d74fab96a5c2e65d",
+        "6886a41f621a63049dad28d339566161e7c6f28282783ad7780420b660b03dcf"
+      ]
     }
   ],
   "aggiornato": "2026-10-17"
