@@ -168,11 +168,11 @@
       "cartella": "FM26 - Plugin 06 - Storia e finanze del club",
       "dll": "FM26-Plugin06-Storia.dll",
       "gruppo": "",
-      "versione": "1.5.0",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin06-1.5.0.zip",
-      "sha256": "9845890711e3d3a5e4d83033b3d0b1f69e5d3d31967cd8361d1f0875c7fb7c2d",
-      "dimensione": 80501,
-      "sha256_dll": "4a55970c643579a97e0e04811c034e99ea9c1331726e5bc6a6793d9ddcbe12b1",
+      "versione": "1.5.1",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin06-1.5.1.zip",
+      "sha256": "7bcc30684ef46ffca9f1c52ff11b7697492a8dfff8680137286bf72c6080e131",
+      "dimensione": 80698,
+      "sha256_dll": "70f563fa7161897256499c3b806a6fea3534821fdf18917a30221cedcd29ae0a",
       "sha256_pacchetto": "",
       "pubblicato": "2026-10-14",
       "aggiornato": "2026-10-17",
@@ -193,12 +193,12 @@
       ],
       "conserva": [],
       "anteprime": [
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin06-anteprima-1-131de71a.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin06-anteprima-2-2bfe4f04.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin06-anteprima-1-58bbd01f.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin06-anteprima-2-57a0f414.jpg"
       ],
       "sha256_anteprime": [
-        "131de71a1f756c4a228819fc6045c8c7c4fdc5bee17f51541b795e4f6ff0e107",
-        "2bfe4f042b8f8f13a7eec66ee0dfa0942c9c51a4686594c88a87769151c37a5c"
+        "58bbd01f462d6fa80773458bc69d068366d3c95707af0c42e733bc710de9a87e",
+        "57a0f41443cbb98b6f9c6526819be3f9da28118df5d3ea49091f3d02e60d02a8"
       ]
     },
     {
