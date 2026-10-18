@@ -548,14 +548,14 @@
       "cartella": "FM26 - Plugin 16 - Pagelle",
       "dll": "FM26-Plugin16-Pagelle.dll",
       "gruppo": "",
-      "versione": "1.0.0",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-1.0.0.zip",
-      "sha256": "f0bec1176e60f00a4ba879edfb5f47ada9b3509c9978d27693311c1ab658c4cb",
-      "dimensione": 187268,
-      "sha256_dll": "fe1837ca95851955bafaac47b959cdfd5f5c433ab3804012f1dad0068888a845",
+      "versione": "1.0.1",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-1.0.1.zip",
+      "sha256": "2cc699f35db389bace0b9732dc98449cf29f6584ec83a9c704ea91c91781cc81",
+      "dimensione": 187291,
+      "sha256_dll": "ae1995a87ba318bcadfa357bebe1addc579a3639701cdf549c72e9ffd406da19",
       "sha256_pacchetto": "dd953118e55208686ea19690001e35bbe1f432476ac60cea90a989dd2c216676",
       "pubblicato": "2026-10-18",
-      "aggiornato": "2026-10-18",
+      "aggiornato": "2026-10-19",
       "sezione": "partita",
       "descrizione": "Al fischio finale le pagelle della partita con una grafica da diretta TV: voto da 4 a 10 con i mezzi voti, il migliore in campo, i duelli della sfida reparto per reparto, il voto al tuo allenatore e le pagelle dei tuoi giocatori, con oltre 1000 commenti satirici legati alla prova vera.",
       "tasto": "F3",
@@ -575,5 +575,5 @@
       ]
     }
   ],
-  "aggiornato": "2026-10-18"
+  "aggiornato": "2026-10-19"
 }
