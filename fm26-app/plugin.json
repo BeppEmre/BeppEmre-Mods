@@ -324,7 +324,8 @@
         "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-4-4922646f.jpg",
         "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-5-e27033d2.jpg",
         "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-6-5fe5696c.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-7-39aa5192.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-7-001adf5d.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin09-anteprima-8-39aa5192.jpg"
       ],
       "sha256_anteprime": [
         "12c449e957eb88a970822c2b8d7d07d00dc659c09dffa0535107d1a4ba990fec",
@@ -333,6 +334,7 @@
         "4922646f9a6861b39e2a9774860083cb7424384fa30e56fadae61e3a157f749b",
         "e27033d2c31e882b84b3a34911f3bfbb72f6cae2139a4bffb56d229938f9c5ca",
         "5fe5696cf0d7698636f4ab8da7049f55ea0c6b2d001405e0268ee0be9b235dbd",
+        "001adf5d26129c87b43baa9352b2336b70e13c14fd1a9bf2faaad3d43639ea63",
         "39aa5192990e565528779d9d71105ec78fa22c38ca689e77c473a7d501a0478f"
       ]
     },
@@ -527,16 +529,49 @@
       "sostituisce": [],
       "conserva": [],
       "anteprime": [
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-1-3f768bd2.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-2-8e03da96.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-3-05dfccb8.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-4-0b7f4118.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-1-31468122.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-2-3f768bd2.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-3-8e03da96.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-4-05dfccb8.jpg"
       ],
       "sha256_anteprime": [
+        "314681228ad3d128dc8a45553e6dad4818ff6b888f1916521014b67929906395",
         "3f768bd28e29563f97b841aac44f4674bfb1a859d8f21687044bbdc3ba98ba0c",
         "8e03da9612a3caf28f634509b57c89c5e89e86d0c105ee078e9928f0cb1e3a17",
-        "05dfccb8dc20bd3c72a2326e7d2d7c4fb445974650aa2b4a14189fcb9c25ca91",
-        "0b7f4118de8991142a7e86669496d63bffcb397c5f981236060e7015736ddcc9"
+        "05dfccb8dc20bd3c72a2326e7d2d7c4fb445974650aa2b4a14189fcb9c25ca91"
+      ]
+    },
+    {
+      "id": "plugin16",
+      "numero": 16,
+      "nome": "Pagelle",
+      "cartella": "FM26 - Plugin 16 - Pagelle",
+      "dll": "FM26-Plugin16-Pagelle.dll",
+      "gruppo": "",
+      "versione": "1.0.0",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-1.0.0.zip",
+      "sha256": "f0bec1176e60f00a4ba879edfb5f47ada9b3509c9978d27693311c1ab658c4cb",
+      "dimensione": 187268,
+      "sha256_dll": "fe1837ca95851955bafaac47b959cdfd5f5c433ab3804012f1dad0068888a845",
+      "sha256_pacchetto": "dd953118e55208686ea19690001e35bbe1f432476ac60cea90a989dd2c216676",
+      "pubblicato": "2026-10-18",
+      "aggiornato": "2026-10-18",
+      "sezione": "partita",
+      "descrizione": "Al fischio finale le pagelle della partita con una grafica da diretta TV: voto da 4 a 10 con i mezzi voti, il migliore in campo, i duelli della sfida reparto per reparto, il voto al tuo allenatore e le pagelle dei tuoi giocatori, con oltre 1000 commenti satirici legati alla prova vera.",
+      "tasto": "F3",
+      "facoltativo": "",
+      "nascosto": "",
+      "sostituisce": [],
+      "conserva": [
+        "frasi.txt"
+      ],
+      "anteprime": [
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-anteprima-1-6aff57a2.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-anteprima-2-0cd82615.jpg"
+      ],
+      "sha256_anteprime": [
+        "6aff57a27dae8c12c0208dff87e84a0e5fc31a69df9bc86a7bc1e3634a5304ed",
+        "0cd826155c00b47a869591c96884d2887a2e11a93bc662f00485f94fab0ceda7"
       ]
     }
   ],
