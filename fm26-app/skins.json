@@ -4,7 +4,7 @@
     {
       "id": "midnight-neon",
       "nome": "Midnight Neon",
-      "versione": "2026.10.17",
+      "versione": "2026.10.18",
       "colori": [
         "#06041a",
         "#160f3a",
@@ -13,10 +13,10 @@
         "#ff4fd8",
         "#2bff88"
       ],
-      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-midnight-neon-2026.10.17.zip",
-      "sha256": "364210a432ff83cd4d07046da21ef1d22de0554eb2d45f3e5fb2dd841b48291a",
-      "dimensione": 183075130,
-      "contenuto": "b3de85d75bba6cb1f52416fc31ed3c6f2273e5c4d5c71a838220c4fd9922980e",
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-midnight-neon-2026.10.18.zip",
+      "sha256": "eb9a80854cb143dcb7e390481c4967fb87567c5d478b03779b9fe6803f6f3b83",
+      "dimensione": 182957535,
+      "contenuto": "3f1fff923e9cf0dc35f77560a90449549a4e58834fc550f1a30e788f73176735",
       "catalogo": "221f1eb6f5070cd0df42229c2333c957",
       "anteprima": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-midnight-neon-anteprima-49b287bb.jpg",
       "anteprimaSha": "49b287bb655e72167da613cbeb93d742f4d2c37fbb72469c590866883d98c02a"
@@ -24,7 +24,7 @@
     {
       "id": "aurora-boreale",
       "nome": "Aurora Boreale",
-      "versione": "2026.10.17",
+      "versione": "2026.10.18",
       "colori": [
         "#03100f",
         "#0b2a2a",
@@ -33,10 +33,10 @@
         "#ff7381",
         "#3cf2c4"
       ],
-      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-aurora-boreale-2026.10.17.zip",
-      "sha256": "04bd997a2abc677dde50b22bf8a3bcd53b5fbf70378042279833108c462f1c3a",
-      "dimensione": 183505653,
-      "contenuto": "0dea5a9a774844659f5dc3c0b7843fcad09aba37805e8dbe197b354925ec0120",
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-aurora-boreale-2026.10.18.zip",
+      "sha256": "c2e5b88d65c3142d61555bef0dc571592fd01311c4483e6f286df403cdf9c35c",
+      "dimensione": 183387903,
+      "contenuto": "2857586dab2f609480ebfecfcaef436231bf39b16012e0605ae3974c9a27be62",
       "catalogo": "221f1eb6f5070cd0df42229c2333c957",
       "anteprima": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-aurora-boreale-anteprima-aacf3ff4.jpg",
       "anteprimaSha": "aacf3ff4094a67b30ca08c445e4ba12eb9aa583ed2b59da94fb8e3fb32f46fb8"
@@ -44,7 +44,7 @@
     {
       "id": "ember-noir",
       "nome": "Ember Noir",
-      "versione": "2026.10.17",
+      "versione": "2026.10.18",
       "colori": [
         "#0d0a09",
         "#251c17",
@@ -53,10 +53,10 @@
         "#ff5a8b",
         "#7ee081"
       ],
-      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-ember-noir-2026.10.17.zip",
-      "sha256": "7e73c284c78bf8d5f558e91b2f48ef101e1e55bc69a79cc27f6818534b998eeb",
-      "dimensione": 183949190,
-      "contenuto": "212bf9df9f42b830a3f75f0227d544cb5d3341b67be08c5fd158d25341839f28",
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-ember-noir-2026.10.18.zip",
+      "sha256": "9a3cbc5e35e7d50c48cb0fb314f01cf2a7813cf7687956e178768a08e25bf412",
+      "dimensione": 183831452,
+      "contenuto": "cfe1ea9153718179709aae3f0851a4d23dd2ec2aceb99efd596570c780560e8e",
       "catalogo": "221f1eb6f5070cd0df42229c2333c957",
       "anteprima": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-ember-noir-anteprima-e064aacb.jpg",
       "anteprimaSha": "e064aacbad42230ecaaf0bb700f168b53a41b877fb11eb99a9b25b5da6ece75e"
@@ -64,7 +64,7 @@
     {
       "id": "ice-royal",
       "nome": "Ice Royal",
-      "versione": "2026.10.17",
+      "versione": "2026.10.18",
       "colori": [
         "#050a1c",
         "#0f1b41",
@@ -73,10 +73,10 @@
         "#66f0e8",
         "#4ade80"
       ],
-      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-ice-royal-2026.10.17.zip",
-      "sha256": "e47f9d039859b42a872c8c7cca7f642954b6af692d6ef152ca2e759947f75a62",
-      "dimensione": 182863822,
-      "contenuto": "a569eebaf98daa0f0912e34da03089e48e2efb9d79b331b9ca5d9bff4a0580bc",
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-ice-royal-2026.10.18.zip",
+      "sha256": "13e344528974e09dba17b1a7daa48a90937b1a2d138f6b2d4f9c74ca943315dc",
+      "dimensione": 182746082,
+      "contenuto": "00f4b7480f83d61afa5d0e2fa74d76ed27a9f89453f646e0743960ca7d422327",
       "catalogo": "221f1eb6f5070cd0df42229c2333c957",
       "anteprima": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-ice-royal-anteprima-530d138d.jpg",
       "anteprimaSha": "530d138d2b038a7697f697b49e3fa37578e5ce3dd9b44c61ee62f9b50c0b9f27"
@@ -84,7 +84,7 @@
     {
       "id": "emerald-gold",
       "nome": "Emerald Gold",
-      "versione": "2026.10.17",
+      "versione": "2026.10.18",
       "colori": [
         "#03110c",
         "#0b2a1f",
@@ -93,10 +93,10 @@
         "#2bb960",
         "#34d399"
       ],
-      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-emerald-gold-2026.10.17.zip",
-      "sha256": "06e1da460621bccc66a0baeaafbcb59adc2c6a362bf09658083048be1b9d5dc8",
-      "dimensione": 184256978,
-      "contenuto": "f394092acd29dd306a935f0ffe550be2fa768847960cd77377cdd4bb58b07890",
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-emerald-gold-2026.10.18.zip",
+      "sha256": "c6b32c5aac4680ba97a6a09cd7e8e71bdf3de574070faa2e660cbfce4174b912",
+      "dimensione": 184139137,
+      "contenuto": "1e78c0def0c7c2ec19912f52766aeeed37cfc96787844e55bab147caa8a3570e",
       "catalogo": "221f1eb6f5070cd0df42229c2333c957",
       "anteprima": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-emerald-gold-anteprima-9d7cb611.jpg",
       "anteprimaSha": "9d7cb6117acd66403b5080fe9bf0491e1b36d40e498923ae7c21931ebc283085"
@@ -104,7 +104,7 @@
     {
       "id": "carbon-lime",
       "nome": "Carbon Lime",
-      "versione": "2026.10.17",
+      "versione": "2026.10.18",
       "colori": [
         "#050505",
         "#151515",
@@ -113,10 +113,10 @@
         "#ff5cc5",
         "#c6ff3d"
       ],
-      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-carbon-lime-2026.10.17.zip",
-      "sha256": "3c9da3c9f276c9c1bf59e07910ca0f7ba5e1535e5afc518f2c5c3a511d3b649c",
-      "dimensione": 183329637,
-      "contenuto": "7410903f20633023afb768e1598e729a15d89b147fe7f3890c27b612f7357aca",
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-carbon-lime-2026.10.18.zip",
+      "sha256": "cbb3cd2f6bcd1ce62965cd5770394533a3eadd8f9ea943e49270cd56e5af8252",
+      "dimensione": 183211879,
+      "contenuto": "c58a4ac3678281dffa4a94b6f8ccf9502c2c6b9c7e8df5dcee89b892d8c05418",
       "catalogo": "221f1eb6f5070cd0df42229c2333c957",
       "anteprima": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-carbon-lime-anteprima-471592df.jpg",
       "anteprimaSha": "471592df67d79afad1dc122d99fcb5ebfc3a30b223e93c72a7bd9893d46424ac"
@@ -124,7 +124,7 @@
     {
       "id": "noir-rosso",
       "nome": "Noir Rosso",
-      "versione": "2026.10.17",
+      "versione": "2026.10.18",
       "colori": [
         "#060505",
         "#1b1414",
@@ -133,10 +133,10 @@
         "#e12456",
         "#4ade80"
       ],
-      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-noir-rosso-2026.10.17.zip",
-      "sha256": "31d18f18b89b99965b6e13b0f6d3bc58560c025a12ae91dba7fef1363a113644",
-      "dimensione": 182467481,
-      "contenuto": "82c82d068df8adc66d1c1953d06e60e9d35954652687b75b7dfd9bb517b1087c",
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-noir-rosso-2026.10.18.zip",
+      "sha256": "7a12f07433c447002ef83099facfe6e754e5eac7500d3f73d0634e38f3c66a31",
+      "dimensione": 182349700,
+      "contenuto": "2001bf38b63b621ac80829c4eb4937a184371816078d7e44f17dd02d88eafb0a",
       "catalogo": "221f1eb6f5070cd0df42229c2333c957",
       "anteprima": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-noir-rosso-anteprima-0f5333a9.jpg",
       "anteprimaSha": "0f5333a9a49499b8a502903225b371faa08b04376a44ebfa67fa6c591f320f11"
@@ -144,7 +144,7 @@
     {
       "id": "black-and-gold",
       "nome": "Black & Gold",
-      "versione": "2026.10.17",
+      "versione": "2026.10.18",
       "colori": [
         "#050505",
         "#1a1716",
@@ -153,10 +153,10 @@
         "#b87341",
         "#86efac"
       ],
-      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-black-and-gold-2026.10.17.zip",
-      "sha256": "64219e0a218a3ae10941c86fc526254bf39166dd1896d418ce351cef44dd5d97",
-      "dimensione": 183367896,
-      "contenuto": "1c6003f86b1eb9695d2a52ba9e25e7e92a6ec58ca42dd092d684c320be5a1945",
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-black-and-gold-2026.10.18.zip",
+      "sha256": "bddd3054c66fa9464132d691dcbb041e5a40c90078e96381cd9311a7f5a9c8fe",
+      "dimensione": 183250134,
+      "contenuto": "62242a22d17300e4e07a0cbdf9b7f983b10b934db066c202430724dc1e40783c",
       "catalogo": "221f1eb6f5070cd0df42229c2333c957",
       "anteprima": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-black-and-gold-anteprima-38f75cec.jpg",
       "anteprimaSha": "38f75cecc13e47c4549e68125c76db8254e15f27d31f73338f5fb59fbc17576e"
@@ -164,7 +164,7 @@
     {
       "id": "onyx-cyan",
       "nome": "Onyx Cyan",
-      "versione": "2026.10.17",
+      "versione": "2026.10.18",
       "colori": [
         "#040607",
         "#0f171a",
@@ -173,10 +173,10 @@
         "#ff4228",
         "#2dd4bf"
       ],
-      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-onyx-cyan-2026.10.17.zip",
-      "sha256": "734c82ca643a1c5ad61d767c3f5ad5de9c52008a9f0974525d50320c0d9d4087",
-      "dimensione": 183670164,
-      "contenuto": "46b2d3cb4d2a6dd0228541b6749bdfa1012b848ec758542bfd82c33624d73216",
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-onyx-cyan-2026.10.18.zip",
+      "sha256": "01589c4fad3ae51e7b1f3e60ad7a20d52d44d12107d283e951a5bfbb8509f3c2",
+      "dimensione": 183552400,
+      "contenuto": "761a92597a3a370276d6f3d66b8b16360ab251e75a04c7f80c7dfb3389717fa1",
       "catalogo": "221f1eb6f5070cd0df42229c2333c957",
       "anteprima": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-onyx-cyan-anteprima-a3fd99e3.jpg",
       "anteprimaSha": "a3fd99e32492fbf3d7d258c66409635327a0eefdfade769f09997f5ad788d8d1"
@@ -184,7 +184,7 @@
     {
       "id": "slate-coral",
       "nome": "Slate Coral",
-      "versione": "2026.10.17",
+      "versione": "2026.10.18",
       "colori": [
         "#0b0f14",
         "#18212b",
@@ -193,10 +193,10 @@
         "#229468",
         "#34d399"
       ],
-      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-slate-coral-2026.10.17.zip",
-      "sha256": "5c982f3f2931f3acc635a2584f3e28dc34898c58f9f4271a0d5aa70b8abc7bef",
-      "dimensione": 182481795,
-      "contenuto": "cb2eaacfb55ec6099b6fe5a4688094d6698805131efbfb490fb6e2bb7ba10da6",
+      "zip": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-slate-coral-2026.10.18.zip",
+      "sha256": "0f21904eb85ed09849c3987a758a21f0a922c87c49ac1c5fe7a35d8b2542e168",
+      "dimensione": 182363347,
+      "contenuto": "ca023f9561aae0a959c79702b399041bc41fb6a121ff2c9aca1ee8763654280a",
       "catalogo": "221f1eb6f5070cd0df42229c2333c957",
       "anteprima": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/skin/skin-slate-coral-anteprima-a79c1ecc.jpg",
       "anteprimaSha": "a79c1ecc4f26ddd4da39a89bba934e528abdc31c103456f5e0d26be1447708a0"
@@ -209,5 +209,5 @@
     "sha256": "ba336e73c91d5fac141731cbad6de1a16570d6430ffe5fd94f0f23337de90b23",
     "dimensione": 111053920
   },
-  "aggiornato": "2026-10-17"
+  "aggiornato": "2026-10-18"
 }
