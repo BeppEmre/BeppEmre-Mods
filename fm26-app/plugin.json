@@ -248,16 +248,16 @@
       "cartella": "FM26 - Plugin 08 - Distinte e tabellone TV",
       "dll": "FM26-Plugin08-Matchday.dll",
       "gruppo": "",
-      "versione": "2.0.0",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-2.0.0.zip",
-      "sha256": "ab66c1fb14a2930fa889938e91d6bde532d200b3248fd7e38e9848c5c6bb5545",
-      "dimensione": 48516907,
-      "sha256_dll": "7120940d5c01716ed3e2000e8feee697860c2d7dc6be408bd8270b8fe3bc4b63",
+      "versione": "2.4.1",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-2.4.1.zip",
+      "sha256": "a2859a960aca5b16cc3f77cd37cb1918aad893b4f59f5d90722e52b155d0b311",
+      "dimensione": 48528499,
+      "sha256_dll": "ba05936dfabca3beb7fdf005e941c3d2711c6abe0fad8772ba849702614dce08",
       "sha256_pacchetto": "e00eeb1f18fabb14b6b82e73f8a552930e460d5298db937056fb2d5af6b2f4b8",
       "pubblicato": "2026-10-14",
-      "aggiornato": "2026-10-20",
+      "aggiornato": "2026-10-21",
       "sezione": "partita",
-      "descrizione": "La partita come in TV: card del Matchday con stadio e spettatori, distinte di casa e ospiti con volti, modulo, panchina e allenatore, classifica prima del fischio e, in partita, il tabellone TV con stemmi, colori sociali e minuti di recupero, anche all'intervallo e a fine gara al posto di quello del gioco; con il VAR il gol si vede subito con la scritta VAR fino alla decisione.",
+      "descrizione": "La partita come in TV: card del Matchday con stadio e spettatori, distinte presentate come in TV (schermo diviso, il logo che gira e poi batte come un cuore in un cerchio di vetro, le due squadre che entrano insieme quando le formazioni sono certe, i reparti che entrano uno dopo l'altro col modulo che si scrive, allenatore e panchina), classifica prima del fischio e, in partita, il tabellone TV a palette con stemmi, colori sociali, logo della competizione e minuti di recupero, anche all'intervallo e a fine gara al posto di quello del gioco; con il VAR il gol si vede subito con la scritta VAR fino alla decisione.",
       "tasto": "F3",
       "facoltativo": "",
       "nascosto": "",
@@ -513,40 +513,33 @@
       "cartella": "FM26 - Plugin 15 - Reti delle porte",
       "dll": "FM26-Plugin15-Reti.dll",
       "gruppo": "",
-      "versione": "2.0.0",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-2.0.0.zip",
-      "sha256": "87cd346813a8702b2aa9736d96a3eb4855c468f6cbc4f70b1a11446b71c01ec8",
-      "dimensione": 44863,
-      "sha256_dll": "b2c89e0ffebcd43e8e5b68c23a7e678c1df25bbe3af409ade4ac4e4ff7842739",
+      "versione": "2.5.0",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-2.5.0.zip",
+      "sha256": "12bb32576d633e0dec4b36b395f65bbf650b37e8c6207e118c7bd7dc57a27f12",
+      "dimensione": 48977,
+      "sha256_dll": "4cd2c1118ddad8028e45ba544d8279eaa8ff7948e8fabdfb1dd92834ec0049a1",
       "sha256_pacchetto": "",
       "pubblicato": "2026-10-18",
-      "aggiornato": "2026-10-20",
+      "aggiornato": "2026-10-21",
       "sezione": "partita",
-      "descrizione": "Le reti delle porte cambiano con la partita: in campionato i colori della squadra di casa a righe inclinate, nelle coppe nazionali la bandiera della nazione, in Champions, Europa League e Conference una sfumatura nei colori della coppa con stella o rombo. I pali restano quelli del gioco.",
+      "descrizione": "Le reti delle porte cambiano con la partita: in campionato i colori della squadra di casa con una trama diversa a ogni partita (righe, chevron, raggiera, cerchi, onde e altre), nelle coppe nazionali la bandiera della nazione, in Champions, Europa League e Conference il logo della competizione dal tuo pacchetto loghi. Maglie piene e luce neon per vederle anche davanti al pubblico.",
       "tasto": "F5",
       "facoltativo": "",
       "nascosto": "",
       "sostituisce": [],
       "conserva": [
-        "coppe_nazionali.txt"
+        "coppe_nazionali.txt",
+        "rotazione_trame.txt"
       ],
       "anteprime": [
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-1-c232d93b.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-2-da69201f.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-3-681a35aa.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-4-3f768bd2.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-5-8e03da96.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-6-96829b7b.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-7-ab3dcaa4.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-1-c0482731.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-2-6264b4e0.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin15-anteprima-3-c232d93b.jpg"
       ],
       "sha256_anteprime": [
-        "c232d93bbc7ae3ff1b0c428ceba80f5f16272a39d4f1c86b6ac559a19b9e5736",
-        "da69201fdb56df58a350a6e5b05d90c24569a036749d105e98d649bf47f731ba",
-        "681a35aa5131e7eed7cc12f97b0b3d42fa071ce809e8a77c86aa56fc20dde7ff",
-        "3f768bd28e29563f97b841aac44f4674bfb1a859d8f21687044bbdc3ba98ba0c",
-        "8e03da9612a3caf28f634509b57c89c5e89e86d0c105ee078e9928f0cb1e3a17",
-        "96829b7bb797440beeb9142a559e4a7b5768368cf3d49e03f5f5fa57baccce06",
-        "ab3dcaa4ce309057755da1626e1a86d95199752534933679cd3914287c809527"
+        "c0482731d568c1d2441c0543c6ab5c02acb3c5b9e122d69815c2e260f9842844",
+        "6264b4e0ba1fe6485765f4ad610862e964a3e639a7d78e6f3e9e7efa8436fc8b",
+        "c232d93bbc7ae3ff1b0c428ceba80f5f16272a39d4f1c86b6ac559a19b9e5736"
       ]
     },
     {
@@ -556,16 +549,16 @@
       "cartella": "FM26 - Plugin 16 - Pagelle",
       "dll": "FM26-Plugin16-Pagelle.dll",
       "gruppo": "",
-      "versione": "2.0.0",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-2.0.0.zip",
-      "sha256": "2261d1f3c2bba0037d85e3b5529a4987c8bda0edaeb91282d4f64104ce75b514",
-      "dimensione": 190978,
-      "sha256_dll": "a12e8674d2ffbf3b7de4135bac269a25b6fb2c932968cf57d7b09efae9e892c5",
-      "sha256_pacchetto": "dd953118e55208686ea19690001e35bbe1f432476ac60cea90a989dd2c216676",
+      "versione": "2.1.0",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-2.1.0.zip",
+      "sha256": "00bcea7e4a5e0a52e04f901751ba6845a86a9506e80371d813ca88446d1f0446",
+      "dimensione": 361344,
+      "sha256_dll": "def7e00a2c924856cb50c73b22c6315ccdfb66a3e4e87eb82f68154eb38e9aa1",
+      "sha256_pacchetto": "41cb319b0a3e94c91d58a18670cbdf63aefbfbf3aeeffce97b78a1964a4e8707",
       "pubblicato": "2026-10-18",
-      "aggiornato": "2026-10-20",
+      "aggiornato": "2026-10-21",
       "sezione": "partita",
-      "descrizione": "Al fischio finale le pagelle della partita impaginate come una rivista sportiva: voto da 4 a 10 con i mezzi voti, il migliore in campo, i duelli della sfida reparto per reparto, il voto al tuo allenatore e le pagelle dei tuoi giocatori, con oltre 1000 commenti satirici legati alla prova vera.",
+      "descrizione": "Al fischio finale le pagelle della partita impaginate come una pagina di giornale, \"Lucullus Sports\" in stile Gazzetta: voto e commento alla tua squadra in base alla partita (finali, notti di coppa, rimonte, goleade), titolone e sommario, il voto al tuo allenatore, il migliore e il peggiore, tutti i tuoi giocatori con volto, voto colorato e commento, con oltre 1000 commenti satirici legati alla prova vera.",
       "tasto": "F3",
       "facoltativo": "",
       "nascosto": "",
@@ -574,10 +567,12 @@
         "frasi.txt"
       ],
       "anteprime": [
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-anteprima-1-756a91f5.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-anteprima-1-3479c21b.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-anteprima-2-a8cc20e6.jpg"
       ],
       "sha256_anteprime": [
-        "756a91f5ad225cfea3e68f4a341a0064f6ba21bfe955c1a271bfe4f238f95cc4"
+        "3479c21b30b4e85f76df8d8b4760aed63c0b8a65ed75ae786f30c769d6ff986a",
+        "a8cc20e6410a2031f1b1edb3949a411b916e7f434653b785956e144e44be53c5"
       ]
     },
     {
@@ -587,14 +582,14 @@
       "cartella": "FM26 - Plugin 17 - Allarme pressione",
       "dll": "FM26-Plugin17-Pressione.dll",
       "gruppo": "",
-      "versione": "2.0.0",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin17-2.0.0.zip",
-      "sha256": "40d5d049636c9974d469c8cf7c3a554d138baddb44c76f9442af18fd03c1aa7a",
-      "dimensione": 156806,
-      "sha256_dll": "d1224ec5572b3f3cc8040018e34fa1b49f2e0169374bbdb3ffe8e3deb4051fce",
+      "versione": "2.0.1",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin17-2.0.1.zip",
+      "sha256": "20214babdb10e30e13c8a62b9a758bd0b7b9a29ec8f535f1f455b5bcde4d69e9",
+      "dimensione": 156743,
+      "sha256_dll": "97b519097f02ec6cfed7e645db84e483fb6b76ffe02263e79c1ceac62d0bcc47",
       "sha256_pacchetto": "",
       "pubblicato": "2026-10-20",
-      "aggiornato": "2026-10-20",
+      "aggiornato": "2026-10-21",
       "sezione": "partita",
       "descrizione": "Quando l'avversario ti sta schiacciando davvero, un popup trasparente sotto i tasti in alto a destra con il banner ATTENZIONE che lampeggia e la barra del dominio avversario contro te, calcolata dai dati veri degli ultimi 10 minuti (tiri, tiri in porta, possesso, xG). Esce una volta per ogni ondata di pressione. Nuovo avviso PRESSING ALTO quando l'avversario ti aggredisce, con il PPDA vero (ricalcolato con la regola vera, non quello di FM). Ti avvisa anche quando l'avversario cambia atteggiamento o modulo.",
       "tasto": "F4",
@@ -614,5 +609,5 @@
       ]
     }
   ],
-  "aggiornato": "2026-10-20"
+  "aggiornato": "2026-10-21"
 }
