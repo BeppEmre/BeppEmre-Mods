@@ -248,11 +248,11 @@
       "cartella": "FM26 - Plugin 08 - Distinte e tabellone TV",
       "dll": "FM26-Plugin08-Matchday.dll",
       "gruppo": "",
-      "versione": "2.4.1",
-      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-2.4.1.zip",
-      "sha256": "a2859a960aca5b16cc3f77cd37cb1918aad893b4f59f5d90722e52b155d0b311",
-      "dimensione": 48528499,
-      "sha256_dll": "ba05936dfabca3beb7fdf005e941c3d2711c6abe0fad8772ba849702614dce08",
+      "versione": "2.4.2",
+      "url": "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-2.4.2.zip",
+      "sha256": "e6717a58f9c878c0f6eba7fc1ce449ab2f13eb375266eceb778fcf821bd27b06",
+      "dimensione": 48528692,
+      "sha256_dll": "0e17def9558c688bad81eab1f2324a49710dc93a248e2cfeafe2b91583401673",
       "sha256_pacchetto": "e00eeb1f18fabb14b6b82e73f8a552930e460d5298db937056fb2d5af6b2f4b8",
       "pubblicato": "2026-10-14",
       "aggiornato": "2026-10-21",
@@ -272,18 +272,16 @@
         "stadi_nomi.txt"
       ],
       "anteprime": [
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-1-bd1db7f9.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-2-3acdd8ff.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-3-c7a06c68.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-4-5241a731.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-5-f7dd9ddd.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-1-d66bb347.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-2-99bb5270.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-3-2a842499.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin08-anteprima-4-33d1beca.jpg"
       ],
       "sha256_anteprime": [
-        "bd1db7f9d00973bdf0690f50d94e1933637b3ed811c9c5ea6833732ea9d862e7",
-        "3acdd8fff5d95ce617168272608199d47966c9c87f8c180aaa869c0a55bd15a4",
-        "c7a06c68f60c68b4d23b49641496aade11a2986a2815bb589c86dca69c7f6cda",
-        "5241a7315f62f159e0bb060d03a2e6ad6527f36d1005a32e2c29c6bb35ba08b4",
-        "f7dd9ddd315f619e825e661d2cedf6a650ed341fb08f422de8f3f7040d9329f1"
+        "d66bb347884ec9c8b09dd1f1a9a66641e0313f17474982ee92189c109361952c",
+        "99bb5270c701b1859027ed2d3bccf11175bd31b944ff483231c214b102053ed2",
+        "2a8424999813fbee1f149688a719e2c149dd07542ad4482cd7668efaa180e99b",
+        "33d1becad28f9dec4ccb4ab4c31c48bbed86c890d68bbbbb113672bb69871020"
       ]
     },
     {
@@ -567,12 +565,12 @@
         "frasi.txt"
       ],
       "anteprime": [
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-anteprima-1-3479c21b.jpg",
-        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-anteprima-2-a8cc20e6.jpg"
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-anteprima-1-a8cc20e6.jpg",
+        "https://github.com/BeppEmre/BeppEmre-Mods/releases/download/plugin26/plugin16-anteprima-2-76b5453a.jpg"
       ],
       "sha256_anteprime": [
-        "3479c21b30b4e85f76df8d8b4760aed63c0b8a65ed75ae786f30c769d6ff986a",
-        "a8cc20e6410a2031f1b1edb3949a411b916e7f434653b785956e144e44be53c5"
+        "a8cc20e6410a2031f1b1edb3949a411b916e7f434653b785956e144e44be53c5",
+        "76b5453a99117b0469cf16d2f87daec4d09f70e5f98163760318c7a26d761e90"
       ]
     },
     {
